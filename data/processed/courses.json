@@ -1,0 +1,1444 @@
+[
+  {
+    "code": "BINF GU4001",
+    "title": "Introduction to Computational Biomedicine and Health",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "This course offers a comprehensive introduction to the core computational methods driving modern biomedical research and health data science. As biological and clinical datasets grow in scale and complexity\u2014from genomic sequences and molecular profiles to electronic health records (EHRs) and consumer health data\u2014this course equips students with the essential computational foundations to model, analyze, and interpret high-dimensional biomedical data. Organized around key algorithmic challenges spanning Clinical Informatics, Consumer Health Informatics, and Bioinformatics, the course focuses on the design and application of algorithms and statistical models to solve real-world biomedical problems. Lectures emphasize practical techniques and showcase their use across diverse biomedical data types. Designed for advanced undergraduates and graduate students in biomedical informatics, computer science, biomedical engineering, applied mathematics, and related fields, this course builds a rigorous understanding of computational biomedicine. It serves as a core requirement for the Biomedical Informatics PhD and master\u2019s programs and is cross-listed with Computer Science. Students interested in careers in bioinformatics, health data science, computational biology, or biomedical AI will find this course especially valuable. As biomedical data continue to expand in size, diversity, and impact, this course provides a critical foundation in the algorithmic, statistical, and computational tools needed to advance the future of research at the intersection of computation and human health"
+  },
+  {
+    "code": "BMCS E4480",
+    "title": "Statistical machine learning for genomics",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Proficiency in Python/R programming, and background in probability/statistics. Recommended: COMS W4771 .",
+    "prerequisite_codes": [
+      "COMS W4771"
+    ],
+    "description": "Introduction to statistical machine learning methods using applications in genomic data and in particular high-dimensional single-cell data. Concepts of molecular biology relevant to genomic technologies, challenges of high-dimensional genomic data analysis, bioinformatics preprocessing pipelines, dimensionality reduction, unsupervised learning, clustering, probabilistic modeling, hidden Markov models, Gibbs sampling, deep neural networks, gene regulation. Programming assignments and final project will be required"
+  },
+  {
+    "code": "BMCS E4575",
+    "title": "High-dimensional statistics for biomedical data",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( APMA E2000 and COMS W4771 and MATH UN2010 ) or ( APMA E2101 ) Strong background in Python (or R) programming- Background in probability/statistics is recommended.",
+    "prerequisite_codes": [
+      "APMA E2000",
+      "APMA E2101",
+      "COMS W4771",
+      "MATH UN2010"
+    ],
+    "description": null
+  },
+  {
+    "code": "CBMF W4761",
+    "title": "COMPUTATIONAL GENOMICS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Working knowledge of at least one programming language, and some background in probability and statistics.",
+    "prerequisite_codes": [],
+    "description": "Computational techniques for analyzing genomic data including DNA, RNA, protein and gene expression data. Basic concepts in molecular biology relevant to these analyses. Emphasis on techniques from artificial intelligence and machine learning. String-matching algorithms, dynamic programming, hidden Markov models, expectation-maximization, neural networks, clustering algorithms, support vector machines. Students with life sciences backgrounds who satisfy the prerequisites are encouraged to enroll"
+  },
+  {
+    "code": "COMS W1001",
+    "title": "INTRO TO INFORMATION SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Basic introduction to concepts and skills in Information Sciences: human-computer interfaces, representing information digitally, organizing and searching information on the internet, principles of algorithmic problem solving, introduction to database concepts, and introduction to programming in Python"
+  },
+  {
+    "code": "COMS W1002",
+    "title": "COMPUTING IN CONTEXT",
+    "points": "4.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Introduction to elementary computing concepts and Python programming with domain-specific applications. Shared CS concepts and Python programming lectures with track-specific sections. Track themes will vary but may include computing for the social sciences, computing for economics and finance, digital humanities, and more. Intended for nonmajors. Students may only receive credit for one of ENGI E1006 or COMS W1002"
+  },
+  {
+    "code": "COMS W1004",
+    "title": "PROGRAMMING IN JAVA",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W1012",
+    "title": "COMPUTING IN CONTEXT REC",
+    "points": "0.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W1404",
+    "title": "EMERGING SCHOLARS PROG SEMINAR",
+    "points": "1.00",
+    "prerequisites_raw": "Prerequisites: Students must be enrolled in an introductory computing course.",
+    "prerequisite_codes": [],
+    "description": "Corequisites: COMS W1001 , COMS W1002 , COMS W1004 , COMS W1005 , ENGI W1006 ,COMS X1016"
+  },
+  {
+    "code": "COMS W2132",
+    "title": "Intermediate Computing in Python",
+    "points": "4.00",
+    "prerequisites_raw": "Prerequisites: ( ENGI E1006 ) or ( COMS W1002 ) or equivalent prior programming background in Python.",
+    "prerequisite_codes": [
+      "COMS W1002",
+      "ENGI E1006"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W2702",
+    "title": "AI in Context",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: STAT UN1201 or equivalent is strongly recommended.",
+    "prerequisite_codes": [
+      "STAT UN1201"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W3102",
+    "title": "DEVELOPMENT TECHNOLOGY",
+    "points": "1.00-2.00",
+    "prerequisites_raw": "Prerequisites: Fluency in at least one programming language.",
+    "prerequisite_codes": [],
+    "description": "Introduction to software development tools and environments. Each section devoted to a specific tool or environment. One-point sections meet for two hours each week for half a semester, and two point sections include an additional two-hour lab"
+  },
+  {
+    "code": "COMS W3107",
+    "title": "Clean Object-Oriented Design",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W1004 or permission of instructor. May not take for credit if already received credit for COMS W1007",
+    "prerequisite_codes": [
+      "COMS W1004",
+      "COMS W1007"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W3132",
+    "title": "Intermediate Computing in Python",
+    "points": "4.00",
+    "prerequisites_raw": "Prerequisites: ENGI E1006 OR COMS W1002 ; or equivalent Python programming experience. Intermediate interdisciplinary course in computing intended for non-CS majors.",
+    "prerequisite_codes": [
+      "COMS W1002",
+      "ENGI E1006"
+    ],
+    "description": "Essential data structures and algorithms in Python with practical software development skills, applications in a variety of areas including biology, natural language processing, data science and others"
+  },
+  {
+    "code": "COMS W3134",
+    "title": "Data Structures in Java",
+    "points": "3",
+    "prerequisites_raw": "Prerequisites: ( COMS W1004 ) or COMS W1004 ; Knowledge of Java",
+    "prerequisite_codes": [
+      "COMS W1004"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W3136",
+    "title": "ESSENTIAL DATA STRUCTURES",
+    "points": "4.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W1004 ) or ( COMS W1005 ) or (COMS W1007) or ( ENGI E1006 ) COMS W1005 OR COMS W1007 OR ENGI E1006 OR COMS W1004",
+    "prerequisite_codes": [
+      "COMS W1004",
+      "COMS W1005",
+      "COMS W1007",
+      "ENGI E1006"
+    ],
+    "description": "A second programming course intended for nonmajors with at least one semester of introductory programming experience. Basic elements of programming in C and C , arraybased data structures, heaps, linked lists, C programming in UNIX environment, object-oriented programming in C , trees, graphs, generic programming, hash tables. Due to significant overlap, students may only receive credit for either COMS W3134 , W3136 , or W3137"
+  },
+  {
+    "code": "COMS W3137",
+    "title": "HONORS DATA STRUCTURES \uff06 ALGOL",
+    "points": "4.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W1004 ) or (COMS W1007) COMS W1004 OR COMS W1007",
+    "prerequisite_codes": [
+      "COMS W1004",
+      "COMS W1007"
+    ],
+    "description": "Corequisites: COMS W3203 An honors introduction to data types and structures: arrays, stacks, singly and doubly linked lists, queues, trees, sets, and graphs. Programming techniques for processing such structures: sorting and searching, hashing, garbage collection. Storage management. Design and analysis of algorithms. Taught in Java. Note: Due to significant overlap, students may receive credit for only one of the following three courses: COMS W3134 , W3136 , or W3137"
+  },
+  {
+    "code": "COMS W3157",
+    "title": "ADVANCED PROGRAMMING",
+    "points": "4.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 ) or ( COMS W3137 ) COMS W3134 OR COMS W3137",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3137"
+    ],
+    "description": "C programming language and Unix systems programming. Also covers Git, Make, TCP/IP networking basics, C fundamentals"
+  },
+  {
+    "code": "COMS W3203",
+    "title": "DISCRETE MATHEMATICS",
+    "points": "4.00",
+    "prerequisites_raw": "Prerequisites: Any introductory course in computer programming.",
+    "prerequisite_codes": [],
+    "description": "Logic and formal proofs, sequences and summation, mathematical induction, binomial coefficients, elements of finite probability, recurrence relations, equivalence relations and partial orderings, and topics in graph theory (including isomorphism, traversability, planarity, and colorings)"
+  },
+  {
+    "code": "COMS W3251",
+    "title": "COMPUTATIONAL LINEAR ALGEBRA",
+    "points": "4.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W3261",
+    "title": "COMPUTER SCIENCE THEORY",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3203 )",
+    "prerequisite_codes": [
+      "COMS W3203"
+    ],
+    "description": "Corequisites: COMS W3134 , COMS W3136 , COMS W3137"
+  },
+  {
+    "code": "COMS W3410",
+    "title": "COMPUTERS AND SOCIETY",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Broader impact of computers. Social networks and privacy. Employment, intellectual property, and the media. Science and engineering ethics. Suitable for nonmajors"
+  },
+  {
+    "code": "COMS W3770",
+    "title": "Mathematics for Machine Learning",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( MATH UN2010 or MATH UN2015 or APMA E2101 or APMA E3101 or COMS W3251 ) and ( MATH UN1201 or MATH UN1205 or APMA E2000 ) and ( STAT UN1201 or MATH UN2015 or IEOR E3658 ) Familiarity with mathematical proof writing",
+    "prerequisite_codes": [
+      "APMA E2000",
+      "APMA E2101",
+      "APMA E3101",
+      "COMS W3251",
+      "IEOR E3658",
+      "MATH UN1201",
+      "MATH UN1205",
+      "MATH UN2010",
+      "MATH UN2015",
+      "STAT UN1201"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W3902",
+    "title": "UNDERGRADUATE THESIS",
+    "points": "0.00-6.00",
+    "prerequisites_raw": "Prerequisites: Agreement by a faculty member to serve as thesis adviser.",
+    "prerequisite_codes": [],
+    "description": "An independent theoretical or experimental investigation by an undergraduate major of an appropriate problem in computer science carried out under the supervision of a faculty member. A formal written report is mandatory and an oral presentation may also be required. May be taken over more than one term, in which case the grade is deferred until all 6 points have been completed. Consult the department for section assignment"
+  },
+  {
+    "code": "COMS W3995",
+    "title": "TOPICS IN COMPUTER SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W3998",
+    "title": "UNDERGRAD PROJECTS IN COMPUTER SCIENCE",
+    "points": "1.00-3.00",
+    "prerequisites_raw": "Prerequisites: Approval by a faculty member who agrees to supervise the work.",
+    "prerequisite_codes": [],
+    "description": "Independent project involving laboratory work, computer programming, analytical investigation, or engineering design. May be repeated for credit. Consult the department for section assignment"
+  },
+  {
+    "code": "COMS W3999",
+    "title": "FIELDWORK",
+    "points": "1.00",
+    "prerequisites_raw": "Prerequisites: Obtained internship and approval from faculty advisor",
+    "prerequisite_codes": [],
+    "description": "May be repeated for credit, but no more than 3 total points may be used toward the 128-credit degree requirement. Only for SEAS computer science undergraduate students who include relevant off campus work experience as part of their approved program of study. Final report and letter of evaluation may be required. May not be used as a technical or nontechnical elective or as a GTE (general technical elective). May not be taken for pass/fail credit or audited"
+  },
+  {
+    "code": "COMS W4111",
+    "title": "INTRODUCTION TO DATABASES",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 ) and ( COMS W3136 ) and ( COMS W3137 ) COMS W3134 , COMS W3136 , or COMS W3136 ; or instructor's permission",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4112",
+    "title": "DATABASE SYSTEM IMPLEMENTATION",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W4111 ) and COMS W4111 ; fluency in Java or C++. CSEE W3827 is recommended.",
+    "prerequisite_codes": [
+      "COMS W4111",
+      "CSEE W3827"
+    ],
+    "description": "The principles and practice of building large-scale database management systems. Storage methods and indexing, query processing and optimization, materialized views, transaction processing and recovery, object-relational databases, parallel and distributed databases, performance considerations. Programming projects are required"
+  },
+  {
+    "code": "COMS W4113",
+    "title": "FUND-LARGE-SCALE DIST SYSTEMS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) and ( COMS W3157 or COMS W4118 or CSEE W4119 ) COMS W3134 , W3136 , or W3137 . COMS W3157 or good working knowledge of C and C++. COMS W4118 or CSEE W4119 .",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137",
+      "COMS W3157",
+      "COMS W4118",
+      "CSEE W4119"
+    ],
+    "description": "Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) and ( COMS W3157 or COMS W4118 or CSEE W4119 ) Design and implementation of large-scale distributed and cloud systems. Teaches abstractions, design and implementation techniques that enable the building of fast, scalable, fault-tolerant distributed systems. Topics include distributed communication models (e.g. sockets, remote procedure calls, distributed shared memory), distributed synchronization (clock synchronization, logical clocks, distributed mutex), distributed file systems, replication, consistency models, fault tolerance, distributed transactions, agreement and commitment, Paxos-based consensus, MapReduce infrastructures, scalable distributed databases. Combines concepts and algorithms with descriptions of real-world implementations at Google, Facebook, Yahoo, Microsoft, LinkedIn, etc"
+  },
+  {
+    "code": "COMS W4115",
+    "title": "PROGRAMMING LANG \uff06 TRANSLATORS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 ) or ( COMS W3136 ) or ( COMS W3137 ) or ( COMS W3261 and CSEE W3827 ) Or the instructor's permission",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137",
+      "COMS W3261",
+      "CSEE W3827"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4118",
+    "title": "OPERATING SYSTEMS I",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( CSEE W3827 ) and CSEE W3827 ; Knowledge of C and programming tools as covered in COMS COMS W3136 , COMS W3157 , or COMS W3101 , or the instructor's permission.",
+    "prerequisite_codes": [
+      "COMS W3101",
+      "COMS W3136",
+      "COMS W3157",
+      "CSEE W3827"
+    ],
+    "description": "Design and implementation of operating systems. Topics include process management, process synchronization and interprocess communication, memory management, virtual memory, interrupt handling, processor scheduling, device management, I/O, and file systems. Case study of the UNIX operating system. A programming project is required"
+  },
+  {
+    "code": "COMS W4119",
+    "title": "COMPUTER NETWORKS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Comfort with basic probability and programming fluency in Python, C++, Java, or Ruby.",
+    "prerequisite_codes": [],
+    "description": "Introduction to computer networks and the technical foundations of the internet, including applications, protocols, local area networks, algorithms for routing and congestion control, security, elementary performance evaluation. Several written and programming assignments required"
+  },
+  {
+    "code": "COMS W4152",
+    "title": "Engineering Software-as-a-Service",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W3134 AND COMS W3157 AND CSEE W3827",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3157",
+      "CSEE W3827"
+    ],
+    "description": "Modern software engineering concepts and practices including topics such as Software-as-a-Service, Service-oriented Architecture, Agile Development, Behavior-driven Development, Ruby on Rails, and Dev/ops"
+  },
+  {
+    "code": "COMS W4153",
+    "title": "Cloud Computing",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W4111",
+    "prerequisite_codes": [
+      "COMS W4111"
+    ],
+    "description": "Software engineering skills necessary for developing cloud computing and software-as-a-service applications, covering topics such as service-oriented architectures, message-driven applications, and platform integration. Includes theoretical study, practical application, and collaborative project work"
+  },
+  {
+    "code": "COMS W4156",
+    "title": "Advanced Software Engineering",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3157 )",
+    "prerequisite_codes": [
+      "COMS W3157"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4160",
+    "title": "COMPUTER GRAPHICS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 ) or ( COMS W3136 ) or ( COMS W3137 ) COMS W3134 OR COMS W3136 OR COMS W3137 ; Strong programming background and some mathematical familiarity including linear algebra is required.",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137"
+    ],
+    "description": "Introduction to computer graphics. Topics include 3D viewing and projections, geometric modeling using spline curves, graphics systems such as OpenGL, lighting and shading, and global illumination. Significant implementation is required: the final project involves writing an interactive 3D video game in OpenGL. Due to significant overlap in content, only one of COMS 4160 or Barnard COMS 3160BC may be taken for credit"
+  },
+  {
+    "code": "COMS W4165",
+    "title": "COMPUT TECHNIQUES-PIXEL PROCSS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W3137 , COMS W3251 recommended, and a good working knowledge of UNIX and C. Intended for graduate students and advanced undergraduates.",
+    "prerequisite_codes": [
+      "COMS W3137",
+      "COMS W3251"
+    ],
+    "description": "An intensive introduction to image processing - digital filtering theory, image enhancement, image reconstruction, antialiasing, warping, and the state of the art in special effects. Topics from the basis of high-quality rendering in computer graphics and of low-level processing for computer vision, remote sensing, and medical imaging. Emphasizes computational techniques for implementing useful image-processing functions"
+  },
+  {
+    "code": "COMS W4167",
+    "title": "COMPUTER ANIMATION",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W4170",
+    "title": "USER INTERFACE DESIGN",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) COMS W3134 OR COMS W3136 OR COMS W3137",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137"
+    ],
+    "description": "Introduction to the theory and practice of computer user interface design, emphasizing the software design of graphical user interfaces. Topics include basic interaction devices and techniques, human factors, interaction styles, dialogue design, and software infrastructure. Design and programming projects are required"
+  },
+  {
+    "code": "COMS W4172",
+    "title": "3D UI AND AUGMENTED REALITY",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W4160 ) or ( COMS W4170 ) or COMS W4160 OR COMS W4170 ; Or instructor's permission",
+    "prerequisite_codes": [
+      "COMS W4160",
+      "COMS W4170"
+    ],
+    "description": "Design, development, and evaluation of 3D user interfaces. Interaction techniques and metaphors, from desktop to immersive. Selection and manipulation. Travel and navigation. Symbolic, menu, gestural, and multimodal interaction. Dialogue design. 3D software support. 3D interaction devices and displays. Virtual and augmented reality. Tangible user interfaces. Review of relevant 3D math"
+  },
+  {
+    "code": "COMS W4181",
+    "title": "SECURITY I",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W3157 ; or equivalent.",
+    "prerequisite_codes": [
+      "COMS W3157"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4182",
+    "title": "SECURITY II",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W4118 AND COMS W4181 AND CSEE W4119",
+    "prerequisite_codes": [
+      "COMS W4118",
+      "COMS W4181",
+      "CSEE W4119"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4186",
+    "title": "MALWARE ANALYSIS\uff06REVERSE ENGINEERING",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W3157 AND CSEE W3827 ; or equivalent.",
+    "prerequisite_codes": [
+      "COMS W3157",
+      "CSEE W3827"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4203",
+    "title": "GRAPH THEORY",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3203 ) COMS W3203",
+    "prerequisite_codes": [
+      "COMS W3203"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4231",
+    "title": "ANALYSIS OF ALGORITHMS I",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W4232",
+    "title": "Advanced Algorithms",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: see notes re: points COMS W4231",
+    "prerequisite_codes": [
+      "COMS W4231"
+    ],
+    "description": "Introduces classic and modern algorithmic ideas that are central to many areas of Computer Science. The focus is on most powerful paradigms and techniques of how to design algorithms, and how to measure their efficiency. The intent is to be broad, covering a diversity of algorithmic techniques, rather than be deep. The covered topics have all been implemented and are widely used in industry. Topics include: hashing, sketching/streaming, nearest neighbor search, graph algorithms, spectral graph theory, linear programming, models for large-scale computation, and other related topics"
+  },
+  {
+    "code": "COMS W4236",
+    "title": "INTRO-COMPUTATIONAL COMPLEXITY",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3261 ) COMS W3261",
+    "prerequisite_codes": [
+      "COMS W3261"
+    ],
+    "description": "Develops a quantitative theory of the computational difficulty of problems in terms of the resources (e.g. time, space) needed to solve them. Classification of problems into complexity classes, reductions, and completeness. Power and limitations of different modes of computation such as nondeterminism, randomization, interaction, and parallelism"
+  },
+  {
+    "code": "COMS W4252",
+    "title": "INTRO-COMPUTATIONAL LEARN THRY",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( CSOR W4231 ) or ( COMS W4236 ) or ( COMS W3203 ) or ( COMS W3261 )",
+    "prerequisite_codes": [
+      "COMS W3203",
+      "COMS W3261",
+      "COMS W4236",
+      "CSOR W4231"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4261",
+    "title": "INTRO TO CRYPTOGRAPHY",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W3261 OR CSOR W4231 ; Comfort with basic discrete math and probability. Recommended: COMS W3261 or CSOR W4231 .",
+    "prerequisite_codes": [
+      "COMS W3261",
+      "CSOR W4231"
+    ],
+    "description": "An introduction to modern cryptography, focusing on the complexity-theoretic foundations of secure computation and communication in adversarial environments; a rigorous approach, based on precise definitions and provably secure protocols. Topics include private and public key encryption schemes, digital signatures, authentication, pseudorandom generators and functions, one-way functions, trapdoor functions, number theory and computational hardness, identification and zero knowledge protocols"
+  },
+  {
+    "code": "COMS W4281",
+    "title": "INTRO TO QUANTUM COMPUTING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W4419",
+    "title": "Internet Technology, Economics, and Policy",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: General engineering, economics, law or technology background. Programming background is not required.",
+    "prerequisite_codes": [],
+    "description": "Technology, economic and policy aspects of the Internet. Summarizes how the Internet works technically, including protocols, standards, radio spectrum, global infrastructure and interconnection. Micro-economics with a focus on media and telecommunication economic concerns, including competition and monopolies, platforms, and behavioral economics. US constitution, freedom of speech, administrative procedures act and regulatory process, universal service, role of FCC. Not a substitute for CSEE4119. Suitable for non-majors"
+  },
+  {
+    "code": "COMS W4444",
+    "title": "PROGRAMMING \uff06 PROBLEM SOLVING",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 and COMS W3136 ) or ( COMS W3137 and CSEE W3827 )",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137",
+      "CSEE W3827"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4460",
+    "title": "PRIN-INNOVATN/ENTREPRENEURSHIP",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) Or instructor's permission",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4701",
+    "title": "ARTIFICIAL INTELLIGENCE",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) and COMS W3134 OR COMS W3136 OR COMS W3137 ; Any course on probability",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137"
+    ],
+    "description": "Prior knowledge of Python is recommended. Provides a broad understanding of the basic techniques for building intelligent computer systems. Topics include state-space problem representations, problem reduction and and-or graphs, game playing and heuristic search, predicate calculus, and resolution theorem proving, AI systems and languages for knowledge representation, machine learning and concept formation and other topics such as natural language processing may be included as time permits"
+  },
+  {
+    "code": "COMS W4705",
+    "title": "NATURAL LANGUAGE PROCESSING",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) or Python programming experience, probability theory, and linear algebra recommended. Some previous or concurrent exposure to AI and machine learning is benefici Some previous or concurrent exposure to AI or Machine Learning is recommended but not required.",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4710",
+    "title": "Ethical and Responsible AI",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W2132 ) or ( COMS W3134 ) or ( COMS W3136 ) or ( COMS W3137 ) or ( IEOR E2000 ) Programming proficiency in Python. Basic knowledge of probability theory and statistics. Familiarity with machine learning recommended.",
+    "prerequisite_codes": [
+      "COMS W2132",
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137",
+      "IEOR E2000"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4721",
+    "title": "MACHINE LEARNING FOR DATA SCI",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W4726",
+    "title": "Deep Learning for Data Science",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: This course presumes prior knowledge of machine learning equivalent to having taken an introductory course in ML. It also assumes the ability to code in Python.",
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W4731",
+    "title": "Computer Vision I: First Principles",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Fundamentals of calculus, linear algebra, and C programming. Students without any of these prerequisites are advised to contact the instructor prior to taking the course.",
+    "prerequisite_codes": [],
+    "description": "Introductory course in computer vision. Topics include image formation and optics, image sensing, binary images, image processing and filtering, edge extraction and boundary detection, region growing and segmentation, pattern classification methods, brightness and reflectance, shape from shading and photometric stereo, texture, binocular stereo, optical flow and motion, 2D and 3D object representation, object recognition, vision systems and applications"
+  },
+  {
+    "code": "COMS W4732",
+    "title": "Computer Vision II: Learning",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W4731 ; Fundamentals of calculus, linear algebra, and Python programming. Students without any of these prerequisites are advised to contact the instructor prior to taking the course.",
+    "prerequisite_codes": [
+      "COMS W4731"
+    ],
+    "description": "Advanced course in computer vision. Topics include convolutional networks and back-propagation, object and action recognition, self-supervised and few-shot learning, image synthesis and generative models, object tracking, vision and language, vision and audio, 3D representations, interpretability, and bias, ethics, and media deception"
+  },
+  {
+    "code": "COMS W4733",
+    "title": "COMPUTATIONAL ASPECTS OF ROBOTICS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) and ( COMS W3251 or MATH UN2010 or APMA E2101 or APMA E3101 or MATH UN2015 ) and ( STAT GU4001 or IEOR E3658 or STAT UN1201 or MATH UN2015 ) Proficiency in Python or a similar programming language.",
+    "prerequisite_codes": [
+      "APMA E2101",
+      "APMA E3101",
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137",
+      "COMS W3251",
+      "IEOR E3658",
+      "MATH UN2010",
+      "MATH UN2015",
+      "STAT GU4001",
+      "STAT UN1201"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4735",
+    "title": "VISUAL INTERFACES TO COMPUTERS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 or COMS W3136 or COMS W3137 ) COMS W3134 OR COMS W3136 OR COMS W3137",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137"
+    ],
+    "description": "Visual input as data and for control of computer systems. Survey and analysis of architecture, algorithms, and underlying assumptions of commercial and research systems that recognize and interpret human gestures, analyze imagery such as fingerprint or iris patterns, generate natural language descriptions of medical or map imagery. Explores foundations in human psychophysics, cognitive science, and artificial intelligence"
+  },
+  {
+    "code": "COMS W4762",
+    "title": "Machine Learning for Functional Genomics",
+    "points": "3",
+    "prerequisites_raw": "Prerequisites: Proficiency in a high level programming language Python/R/Julia. An introductory machine learning class such as COMS W4771 Machine Learning will be helpful but is not required.",
+    "prerequisite_codes": [
+      "COMS W4771"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4771",
+    "title": "MACHINE LEARNING",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( MATH UN1201 or MATH UN1205 or APMA E2000 ) and ( COMS W3251 or MATH UN2010 or MATH UN2015 ) and ( STAT UN1201 or STAT GU4001 or IEOR E3658 or MATH UN2015 ) and COMS W3203 and COMS W3134 General mathematical maturity. COMS W3770 is recommended for students who wish to refresh their math background.",
+    "prerequisite_codes": [
+      "APMA E2000",
+      "COMS W3134",
+      "COMS W3203",
+      "COMS W3251",
+      "COMS W3770",
+      "IEOR E3658",
+      "MATH UN1201",
+      "MATH UN1205",
+      "MATH UN2010",
+      "MATH UN2015",
+      "STAT GU4001",
+      "STAT UN1201"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4773",
+    "title": "Machine Learning Theory",
+    "points": "3",
+    "prerequisites_raw": "Prerequisites: COMS W4771",
+    "prerequisite_codes": [
+      "COMS W4771"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4774",
+    "title": "Unsupervised Learning",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W4771 Background in probability and statistics, linear algebra, and multivariate calculus. Ability to program in a high-level language, and familiarity with basic algorithm design and coding principles",
+    "prerequisite_codes": [
+      "COMS W4771"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4775",
+    "title": "Causal Inference",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W4771 Discrete Math, Calculus, Statistics basic probability, modeling, experimental design, Some programming experience",
+    "prerequisite_codes": [
+      "COMS W4771"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS W4901",
+    "title": "Projects in Computer Science",
+    "points": "1-3",
+    "prerequisites_raw": "Prerequisites: Approval by a faculty member who agrees to supervise the work.",
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS W4995",
+    "title": "TOPICS IN COMPUTER SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Selected topics in computer science. Content and prerequisites vary between sections and semesters. May be repeated for credit. Check \u201ctopics course\u201d webpage on the department website for more information on each section"
+  },
+  {
+    "code": "COMS E6111",
+    "title": "ADVANCED DATABASE SYSTEMS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W4111 ) and COMS W4111 ; Working knowledge of Python or instructor's permission.",
+    "prerequisite_codes": [
+      "COMS W4111"
+    ],
+    "description": "Continuation of ( COMS W4111 ), covers the latest trends in both database research and industry. Programming projects in Python are required"
+  },
+  {
+    "code": "COMS E6113",
+    "title": "Topics in Database Systems",
+    "points": "3",
+    "prerequisites_raw": "Prerequisites: ( COMS W4111 ) COMS W4111",
+    "prerequisite_codes": [
+      "COMS W4111"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS E6118",
+    "title": "OPERATING SYSTEMS, II",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W4118 ) COMS W4118",
+    "prerequisite_codes": [
+      "COMS W4118"
+    ],
+    "description": "Corequisites: COMS W4119"
+  },
+  {
+    "code": "COMS E6156",
+    "title": "TOPICS IN SOFTWARE ENGINEERING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Topics in Software engineering arranged as the need and availability arises. Topics are usually offered on a one-time basis. Since the content of this course changes, it may be repeated for credit with advisor approval. Consult the department for section assignment"
+  },
+  {
+    "code": "COMS E6173",
+    "title": "Virtual Reality and Augmented Reality",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: You will ideally have taken COMS W4172 3D User Interfaces and Augmented Reality or equivalent and be comfortable with developing in Unity. However, I am willing to admit students who don\u2019t have this background, with the understanding that you will need.",
+    "prerequisite_codes": [
+      "COMS W4172"
+    ],
+    "description": "This course will cover selected topics in virtual reality (VR) and augmented reality (AR). There are two main components, with everyone participating in both: papers and projects"
+  },
+  {
+    "code": "COMS E6178",
+    "title": "Human-Computer Interaction",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W4170",
+    "prerequisite_codes": [
+      "COMS W4170"
+    ],
+    "description": "Human\u2013computer interaction (HCI) studies (1) what computers are used for, (2) how people interact with computers, and (3) how either of those should change in the future. Topics include ubiquitous computing, mobile health, interaction techniques, social computing, mixed reality, accessibility, and ethics. Activities include readings, presentations, and discussions of research papers. Substantial HCI research project required"
+  },
+  {
+    "code": "COMS E6184",
+    "title": "ANONYMITY \uff06 PRIVACY",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W4261 ) or (COMS W4180) or ( CSEE W4119 ) or COMS W4261 OR COMS W4180 OR CSEE W4119",
+    "prerequisite_codes": [
+      "COMS W4180",
+      "COMS W4261",
+      "CSEE W4119"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS E6185",
+    "title": "INTRUSION DETECTION SYSTEMS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W4180",
+    "prerequisite_codes": [
+      "COMS W4180"
+    ],
+    "description": "Corequisites: COMS W4180 Corequisite: COMS 4180W. The state of threats against computers, and networked systems. An overview of computer security solutions and why they fail. Provides a detailed treatment for Network and Host-based Intrusion Detection and Intrusion Prevention systems. Considerable depth is provided on anomaly detection systems to detect new attacks. Covers issues and problems in email (spam, and viruses) and insider attacks (masquerading and impersonation)"
+  },
+  {
+    "code": "COMS E6232",
+    "title": "ANALYSIS OF ALGORITHMS II",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( CSOR W4231 ) CSOR W4231",
+    "prerequisite_codes": [
+      "CSOR W4231"
+    ],
+    "description": "Continuation of CSOR W4231"
+  },
+  {
+    "code": "COMS E6261",
+    "title": "ADVANCED CRYPTOGRAPHY",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W4261 ) COMS W4261",
+    "prerequisite_codes": [
+      "COMS W4261"
+    ],
+    "description": "A study of advanced cryptographic research topics such as: secure computation, zero knowledge, privacy, anonymity, cryptographic protocols. Concentration on theoretical foundations, rigorous approach, and provable security. Contents varies between offerings. May be repeated for credit"
+  },
+  {
+    "code": "COMS E6424",
+    "title": "HARDWARE SECURITY",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS E6732",
+    "title": "COMPUTATIONAL IMAGING",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W4731 ) or COMS W4731 ; or instructor's permission.",
+    "prerequisite_codes": [
+      "COMS W4731"
+    ],
+    "description": "Computational imaging uses a combination of novel imaging optics and a computational module to produce new forms of visual information. Survey of the state-of-the-art in computational imaging. Review of recent papers on omnidirectional and panoramic imaging, catadioptric imaging, high dynamic range imaging, mosaicing and superresolution. Classes are seminars with the instructor, guest speakers, and students presenting papers and discussing them"
+  },
+  {
+    "code": "COMS E6735",
+    "title": "VISUAL DATABASES",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W4731 and COMS W4735 helpful but not required. Contact instructor if uncertain.",
+    "prerequisite_codes": [
+      "COMS W4731",
+      "COMS W4735"
+    ],
+    "description": null
+  },
+  {
+    "code": "COMS E6900",
+    "title": "TUTORIAL IN COMPUTER SCIENCE",
+    "points": "1.00-3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "A reading course in an advanced topic for a small number of students, under faculty supervision"
+  },
+  {
+    "code": "COMS E6901",
+    "title": "PROJECTS IN COMPUTER SCIENCE",
+    "points": "1.00-12.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "Software or hardware projects in computer science. Before registering, the student must submit a written proposal to the instructor for review. The proposal should give a brief outline of the project, estimated schedule of completion, and computer resources needed. Oral and written reports are required. May be taken over more than one semester, in which case the grade will be deferred until all 12 points have been completed. No more than 12 points of COMS E6901 may be taken. Consult the department for section assignment"
+  },
+  {
+    "code": "COMS E6902",
+    "title": "THESIS",
+    "points": "1.00-9.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Available to M.S. and CSE candidates. An independent investigation of an appropriate problem in computer science carried out under the supervision of a faculty member. A formal written report is essential and an oral presentation may also be required. May be taken over more than one semester, in which case the grade will be deferred until all 9 points have been completed. No more than 9 points of COMS E6902 may be taken. Consult the department for section assignment"
+  },
+  {
+    "code": "COMS E6910",
+    "title": "FIELDWORK",
+    "points": "1.00",
+    "prerequisites_raw": "Prerequisites: Obtained internship and approval from faculty adviser. Only for M.S. in the Computer Science Department who need relevant work experience as part of their program of study.",
+    "prerequisite_codes": [],
+    "description": "Final report required. This course may not be taken for pass/fail credit or audited"
+  },
+  {
+    "code": "COMS E6915",
+    "title": "TECH WRITING FOR CS AND ENGINRS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Available to M.S. and Ph.D candidates in CS/CE and EE.",
+    "prerequisite_codes": [],
+    "description": "Topics to help CS/CE and EE graduate students\u2019 communication skills. Emphasis on writing, presenting clear, concise proposals, journal articles, conference papers, theses, and technical presentations. Credit may not be used to satisfy degree requirements"
+  },
+  {
+    "code": "COMS E6998",
+    "title": "TOPICS IN COMPUTER SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS E9800",
+    "title": "DIRECTED RESEARCH IN COMP SCI",
+    "points": "1.00-15.00",
+    "prerequisites_raw": "Prerequisites: Submission of an outline of the proposed research for approval by the faculty member who will supervise. The department must approve the number of points.",
+    "prerequisite_codes": [],
+    "description": "May be repeated for credit. This course is only for Eng.Sc.D. candidates"
+  },
+  {
+    "code": "COMS E9902",
+    "title": "SEMINAR IN COMPUTER SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "COMS E9910",
+    "title": "GRADUATE RESEARCH I",
+    "points": "1.00-6.00",
+    "prerequisites_raw": "Prerequisites: Submission of an outline of the proposed research for approval by the faculty member who will supervise. The department must approve the number of credits.",
+    "prerequisite_codes": [],
+    "description": "May be repeated for credit. This course is only for M.S. candidates holding GRA or TA appointments. Note: It is NOT required that a student take Graduate Research I prior to taking Graduate Research II. Consult the department for section assignment"
+  },
+  {
+    "code": "COMS E9911",
+    "title": "GRADUATE RESEARCH II",
+    "points": "1.00-15.00",
+    "prerequisites_raw": "Prerequisites: Submission of an outline of the proposed research for approval by the faculty member who will supervise.",
+    "prerequisite_codes": [],
+    "description": "The department must approve the number of points. May be repeated for credit. This course is only for M.S./Ph.D. and Ph.D. students. Note: It is NOT required that a student take Graduate Research, I prior to taking Graduate Research, II. Consult the department for section assignment"
+  },
+  {
+    "code": "CSBS W3761",
+    "title": "Lab in Computational Biology",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W1002 and BIOL C2005) or ( COMS W1004 and BIOL C2005) or ( ENGI E1006 and BIOL C2005)",
+    "prerequisite_codes": [
+      "BIOL C2005",
+      "COMS W1002",
+      "COMS W1004",
+      "ENGI E1006"
+    ],
+    "description": null
+  },
+  {
+    "code": "CSEE W3827",
+    "title": "FUNDAMENTALS OF COMPUTER SYSTS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: An introductory programming course.",
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "CSEE W4119",
+    "title": "COMPUTER NETWORKS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Comfort with basic probability. Programming fluency in Python, C++, Java, or Ruby please see section course page for specific language requirements.",
+    "prerequisite_codes": [],
+    "description": "Introduction to computer networks and the technical foundations of the Internet, including applications, protocols, local area networks, algorithms for routing and congestion control, security, elementary performance evaluation. Several written and programming assignments required"
+  },
+  {
+    "code": "CSEE W4121",
+    "title": "COMPUTER SYSTEMS FOR DATA SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Background in Computer System Organization and good working knowledge of C/C++. CSOR W4246 Algorithms for Data Science, STAT W4203 Probability Theory, or equivalent as approved by faculty advisor.",
+    "prerequisite_codes": [
+      "CSOR W4246",
+      "STAT W4203"
+    ],
+    "description": "An introduction to computer architecture and distributed systems with an emphasis on warehouse scale computing systems. Topics will include fundamental tradeoffs in computer systems, hardware and software techniques for exploiting instruction-level parallelism, data-level parallelism and task level parallelism, scheduling, caching, prefetching, network and memory architecture, latency and throughput optimizations, specialization, and an introduction to programming data center computers"
+  },
+  {
+    "code": "CSEE W4823",
+    "title": "Advanced Logic Design",
+    "points": "3",
+    "prerequisites_raw": "Prerequisites: ( CSEE W3827 ) or CSEE W3827 ; Or a half semester introduction to digital logic, or the equivalent.",
+    "prerequisite_codes": [
+      "CSEE W3827"
+    ],
+    "description": null
+  },
+  {
+    "code": "CSEE W4824",
+    "title": "COMPUTER ARCHITECTURE",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( CSEE W3827 ) or CSEE W3827",
+    "prerequisite_codes": [
+      "CSEE W3827"
+    ],
+    "description": "Focuses on advanced topics in computer architecture, illustrated by case studies from classic and modern processors. Fundamentals of quantitative analysis. Pipelining. Memory hierarchy design. Instruction-level and thread-level parallelism. Data-level parallelism and graphics processing units. Multiprocessors. Cache coherence. Interconnection networks. Multi-core processors and systems-on-chip. Platform architectures for embedded, mobile, and cloud computing"
+  },
+  {
+    "code": "CSEE W4840",
+    "title": "EMBEDDED SYSTEMS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( CSEE W4823 ) CSEE W4823",
+    "prerequisite_codes": [
+      "CSEE W4823"
+    ],
+    "description": "Embedded system design and implementation combining hardware and software. I/O, interfacing, and peripherals. Weekly laboratory sessions and term project on design of a microprocessor-based embedded system including at least one custom peripheral. Knowledge of C programming and digital logic required"
+  },
+  {
+    "code": "CSEE W4868",
+    "title": "SYSTEM-ON-CHIP PLATFORMS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3157 ) and ( CSEE W3827 ) COMS W3157 AND CSEE W3827",
+    "prerequisite_codes": [
+      "COMS W3157",
+      "CSEE W3827"
+    ],
+    "description": "Design and programming of System-on-Chip (SoC) platforms. Topics include: overview of technology and economic trends, methodologies and supporting CAD tools for system-level design, models of computation, the SystemC language, transaction-level modeling, software simulation and virtual platforms, hardware-software partitioning, high-level synthesis, system programming and device drivers, on-chip communication, memory organization, power management and optimization, integration of programmable processor cores and specialized accelerators. Case studies of modern SoC platforms for various classes of applications"
+  },
+  {
+    "code": "CSEE W6180",
+    "title": "MODELING \uff06 PERFORMANCE EVALUATION",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: STAT W4001 AND COMS W4118",
+    "prerequisite_codes": [
+      "COMS W4118",
+      "STAT W4001"
+    ],
+    "description": "Introduction to queuing analysis and simulation techniques. Evaluation of time-sharing and multiprocessor systems. Topics include priority queuing, buffer storage, and disk access, interference and bus contention problems, and modeling of program behaviors"
+  },
+  {
+    "code": "CSEE E6863",
+    "title": "FORMAL VERIF HW SW SYSTEMS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3261 and COMS W3137 ) or ( COMS W3134 and COMS W3136 )",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136",
+      "COMS W3137",
+      "COMS W3261"
+    ],
+    "description": null
+  },
+  {
+    "code": "CSEE E6868",
+    "title": "EMBEDDED SCALABLE PLATFORMS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( CSEE W4868 ) or CSEE W4868 ; Or instructor's permission",
+    "prerequisite_codes": [
+      "CSEE W4868"
+    ],
+    "description": "Inter-disciplinary graduate-level seminar on design and programming of embedded scalable platforms. Content varies between offerings to cover timely relevant issues and latest advances in system-on-chip design, embedded software programming, and electronic design automation. Requires substantial reading of research papers, class participation, and semester-long project"
+  },
+  {
+    "code": "CSEE E6915",
+    "title": "Academic Writing and Great Presentations",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: For CS and EE Ph.D. students.",
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "CSOR W4223",
+    "title": "Networks, Crowds, and the Web",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: The class assumes students are familiar with elementary concepts of probability (any class that includes probability suffices), and took one class of data structures or has experience programming with data.",
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "CSOR W4231",
+    "title": "ANALYSIS OF ALGORITHMS I",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( COMS W3134 or COMS W3136COMS W3137) and ( COMS W3203 )",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "COMS W3136CO",
+      "COMS W3203",
+      "MS W3137"
+    ],
+    "description": null
+  },
+  {
+    "code": "CSOR W4246",
+    "title": "ALGORITHMS FOR DATA SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: COMS W1007 Basic knowledge in programming (e.g. at the level of COMS W1007), a basic grounding in calculus and linear algebra.",
+    "prerequisite_codes": [
+      "COMS W1007"
+    ],
+    "description": "Corequisites: COMS W4121"
+  },
+  {
+    "code": "ECBM E4040",
+    "title": "NEURAL NETWRKS \uff06 DEEP LEARNING",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( BMEB W4020 ) or ( BMEE E4030 ) or ( ECBM E4090 ) or ( EECS E4750 ) or ( COMS W4771 ) or BMEB W4020 OR BMEE E4030 OR ECBM E4090 OR EECS E4750 OR COMS W4771 ; or equivalent.",
+    "prerequisite_codes": [
+      "BMEB W4020",
+      "BMEE E4030",
+      "COMS W4771",
+      "ECBM E4090",
+      "EECS E4750"
+    ],
+    "description": "Developing features - internal representations of the world, artificial neural networks, classifying handwritten digits with logistics regression, feedforward deep networks, back propagation in multilayer perceptrons, regularization of deep or distributed models, optimization for training deep models, convolutional neural networks, recurrent and recursive neural networks, deep learning in speech and object recognition"
+  },
+  {
+    "code": "ECBM E4060",
+    "title": "INTRO-GENOMIC INFO SCI \uff06 TECH",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Introduction to computational biology with emphasis on genomic data science tools and methodologies for analyzing data, such as genomic sequences, gene expression measurements and the presence of mutations. Applications of machine learning and exploratory data analysis for predicting drug response and disease progression. Latest technologies related to genomic information, such as single-cell sequencing and CRISPR, and the contributions of genomic data science to the drug development process"
+  },
+  {
+    "code": "ECBM E4070",
+    "title": "Computing with Brain Circuits of Model Organisms",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: BIOL W3004 AND ELEN E3801 ; and Python programming experience, or instructor's permission.",
+    "prerequisite_codes": [
+      "BIOL W3004",
+      "ELEN E3801"
+    ],
+    "description": "Building the functional map of the fruit fly brain. Molecular transduction and spatio-temporal encoding in the early visual system. Predictive coding in the Drosophila retina. Canonical circuits in motion detection. Canonical navigation circuits in the central complex. Molecular transduction and combinatorial encoding in the early olfactory system. Predictive coding in the antennal lobe. The functional role of the mushroom body and the lateral horn. Canonical circuits for associative learning and innate memory. Projects in Python"
+  },
+  {
+    "code": "ECBM E4090",
+    "title": "BRAIN COMPUTER INTERFACES LAB",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( ELEN E3801 ) ELEN E3801",
+    "prerequisite_codes": [
+      "ELEN E3801"
+    ],
+    "description": "Hands-on experience with basic neural interface technologies. Recording EEG (electroencephalogram) signals using data acquisition systems (non-invasive, scalp recordings). Real-time analysis and monitoring of brain responses. Analysis of intention and perception of external visual and audio signals"
+  },
+  {
+    "code": "ECBM E6070",
+    "title": "TPC NEUROSCI \uff06 DEEP LEARN",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "EEBM E6090",
+    "title": "TPCS:COMPUT NEUROSCI/NEUROENGI",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "Selected advanced topics in computational neuroscience and neuroengineering. Content varies from year to year, and different topics rotate through the course numbers 6090-6099"
+  },
+  {
+    "code": "EEBM E6099",
+    "title": "TPCS:COMPUT NEUROSCI/NEUROENGI",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "Selected advanced topics in computational neurscience and neuroengineering. Content varies from year to year, and different topics rotate through the course numbers 6090-6099"
+  },
+  {
+    "code": "EECS E4321",
+    "title": "DIGITAL VLSI CIRCUITS",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Recommended preparation: ELEN E3106 , ELEN E3331 , and CSEE W3827 .",
+    "prerequisite_codes": [
+      "CSEE W3827",
+      "ELEN E3106",
+      "ELEN E3331"
+    ],
+    "description": "Design and analysis of high speed logic and memory. Digital CMOS and BiCMOS device modeling. Integrated circuit fabrication and layout. Interconnect and parasitic elements. Static and dynamic techniques. Worst-case design. Heat removal and I/O. Yield and circuit reliability. Logic gates, pass logic, latches, PLAs, ROMs, RAMs, receivers, drivers, repeaters, sense amplifiers"
+  },
+  {
+    "code": "EECS E4750",
+    "title": "Heterogeneous Computing for Signal and Data Processing",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( ELEN E3801 ) and ( COMS W3134 ) or ELEN E3801 AND COMS W3134",
+    "prerequisite_codes": [
+      "COMS W3134",
+      "ELEN E3801"
+    ],
+    "description": "Methods for deploying signal and data processing algorithms on contemporary general purpose graphics processing units (GPGPUs) and heterogeneous computing infrastructures. Using programming languages such as OpenCL and CUDA for computational speedup in audio, image and video processing and computational data analysis. Significant design project"
+  },
+  {
+    "code": "EECS E4764",
+    "title": "Artificial Intelligence of Things (AIoT)",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Knowledge of programming or instructor's permission. Suggested preparation: ELEN E4703 , CSEE W4119 , CSEE W4840 , or related courses.",
+    "prerequisite_codes": [
+      "CSEE W4119",
+      "CSEE W4840",
+      "ELEN E4703"
+    ],
+    "description": "Artificial Intelligence of Things (AIoT), Internet of Things (IoT), and Cyber-Physical Systems (CPS). Embedded and mobile platforms. Embedded programming. Sensors, actuators, and interfaces. Wireless networking, web services, and databases. Edge and cloud computing. Large language models (LLMs) for AIoT. Time-series data visualization and analytics. Group projects to build end-to-end AIoT systems and applications"
+  },
+  {
+    "code": "EECS E6321",
+    "title": "Advanced digital electronic circuits",
+    "points": "4.5",
+    "prerequisites_raw": "Prerequisites: ( EECS E4321 ) EECS E4321",
+    "prerequisite_codes": [
+      "EECS E4321"
+    ],
+    "description": null
+  },
+  {
+    "code": "EECS E6690",
+    "title": "TOPICS DATA-DRIVEN ANAL \uff06 COMP",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "EECS E6691",
+    "title": "TOPICS DATA-DRIVEN ANAL \uff06 COMP",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "Selected advanced topics in data-driven analysis and computation. Content varies from year to year, and different topics rotate through the course numbers 6690 to 6699"
+  },
+  {
+    "code": "EECS E6692",
+    "title": "TOPICS DATA-DRIVEN ANAL \uff06 COMP",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "Selected advanced topics in data-driven analysis and computation. Content varies from year to year, and different topics rotate through the course numbers 6690 to 6699"
+  },
+  {
+    "code": "EECS E6693",
+    "title": "TOPICS DATA-DRIVEN ANAL \uff06 COMP",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "Selected advanced topics in data-driven analysis and computation. Content varies from year to year, and different topics rotate through the course numbers 6690 to 6699"
+  },
+  {
+    "code": "EECS E6694",
+    "title": "TOPICS DATA-DRIVEN ANAL \uff06 COMP",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "Selected advanced topics in data-driven analysis and computation. Content varies from year to year, and different topics rotate through the course numbers 6690 to 6699"
+  },
+  {
+    "code": "EECS E6699",
+    "title": "TOPICS DATA-DRIVEN ANAL \uff06 COMP",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Instructor's permission.",
+    "prerequisite_codes": [],
+    "description": "Selected advanced topics in data-driven analysis and computation. Content varies from year to year, and different topics rotate through the course numbers 6690 to 6699"
+  },
+  {
+    "code": "EECS E6720",
+    "title": "BAYESIAN MOD MACHINE LEARNING",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Basic calculus, linear algebra, probability, and programming.",
+    "prerequisite_codes": [],
+    "description": "Basic statistics and machine learning strongly recommended. Bayesian approaches to machine learning. Topics include mixed-membership models, latent factor models, Bayesian nonparametric methods, probit classification, hidden Markov models, Gaussian mixture models, model learning with mean-field variational inference, scalable inference for Big Data. Applications include image processing, topic modeling, collaborative filtering and recommendation systems"
+  },
+  {
+    "code": "EECS E6890",
+    "title": "Topics in information processing",
+    "points": "3",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "EECS E6891",
+    "title": "TOPICS-INFORMATION PROCESSING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899"
+  },
+  {
+    "code": "EECS E6892",
+    "title": "TOPICS-INFORMATION PROCESSING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899"
+  },
+  {
+    "code": "EECS E6893",
+    "title": "TOPICS-INFORMATION PROCESSING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899. Topic: Big Data Analytics"
+  },
+  {
+    "code": "EECS E6894",
+    "title": "TOPICS-INFORMATION PROCESSING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899"
+  },
+  {
+    "code": "EECS E6895",
+    "title": "TOPICS-INFORMATION PROCESSING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Advanced topics spanning Electrical Engineering and Computer Science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899. Topic: Advanced Big Data Analytics"
+  },
+  {
+    "code": "EECS E6896",
+    "title": "TOPICS-INFORMATION PROCESSING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899. Topic: Quantum Computing and Communication"
+  },
+  {
+    "code": "EECS E6897",
+    "title": "Topics in Information Processing",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899"
+  },
+  {
+    "code": "EECS E6898",
+    "title": "TOPICS-INFORMATION PROCESSING",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899"
+  },
+  {
+    "code": "EECS E9601",
+    "title": "Seminar in Data-Driven Analysis and Computation",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Open to doctoral candidates and qualified M.S. candidates with the instructor's permission.",
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "ENGI E1006",
+    "title": "INTRO TO COMP FOR ENG/APP SCI",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "An interdisciplinary course in computing intended for first year SEAS students. Introduces computational thinking, algorithmic problem solving and Python programming with applications in science and engineering. Assumes no prior programming background"
+  },
+  {
+    "code": "ENGI E4300",
+    "title": "Design Justice: Human-Centered Design and Social Justice",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: IEME E4200 or COMS W4170 Or instructor's permission.",
+    "prerequisite_codes": [
+      "COMS W4170",
+      "IEME E4200"
+    ],
+    "description": null
+  },
+  {
+    "code": "MECS E4510",
+    "title": "EVOLUTIONARY COMPUTATION\uff06DESIGN AUTOMATI",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Basic programming experience in any language.",
+    "prerequisite_codes": [],
+    "description": "Fundamental and advanced topics in evolutionary algorithms and their application to open-ended optimization and computational design. Covers genetic algorithms, genetic programming, and evolutionary strategies, as well as governing dynamic of coevolution and symbiosis. Includes discussions of problem representations and applications to design problems in a variety of domains including software, electronics, and mechanics"
+  },
+  {
+    "code": "MECS E4603",
+    "title": "APPLIED ROBOTICS: ALGORITHMS\uff06SOFTWARE",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": null
+  },
+  {
+    "code": "MECS E6616",
+    "title": "ROBOT LEARNING",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: ( MECE E4602 ) and ( MECS E4603 ) or ( COMS W4733 ) MECE E4602 OR MECS E4603 OR COMS W4733",
+    "prerequisite_codes": [
+      "COMS W4733",
+      "MECE E4602",
+      "MECS E4603"
+    ],
+    "description": "Robots using machine learning to achieve high performance in unscripted situations. Dimensionality reduction, classification, and regression problems in robotics. Deep Learning: Convolutional Neural Networks for robot vision, Recurrent Neural Networks, and sensorimotor robot control using neural networks. Model Predictive Control using learned dynamics models for legged robots and manipulators. Reinforcement Learning in robotics: model-based and model-free methods, deep reinforcement learning, sensorimotor control using reinforcement learning"
+  },
+  {
+    "code": "ORCA E2500",
+    "title": "FOUNDATIONS OF DATA SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: MATH UN1101 and MATH UN1102 MATH V1101 AND MATH V1102; Some familiarity with programming.",
+    "prerequisite_codes": [
+      "MATH UN1101",
+      "MATH UN1102",
+      "MATH V1101",
+      "MATH V1102"
+    ],
+    "description": "Designed to provide an introduction to data science for sophomore SEAS majors. Combines three perspectives: inferential thinking, computational thinking, and real-world applications. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? Teaches critical concepts and skills in computer programming, statistical inference, and machine learning, in conjunction with hands-on analysis of real-world datasets such as economic data, document collections, geographical data, and social networks. At least one project will address a problem relevant to New York City"
+  },
+  {
+    "code": "ORCA E4500",
+    "title": "FOUNDATIONS OF DATA SCIENCE",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: MATH V1101 AND MATH V1102; Some familiarity with programming",
+    "prerequisite_codes": [
+      "MATH V1101",
+      "MATH V1102"
+    ],
+    "description": "Designed to provide an introduction to data science for sophomore SEAS majors. Combines three perspectives: inferential thinking, computational thinking, and real-world applications. Given data arising from some real-world phenomenon, how does one analyze that data so as to understand that phenomenon? Teaches critical concepts and skills in computer programming, statistical inference, and machine learning, in conjunction with hands-on analysis of real-world datasets such as economic data, document collections, geographical data, and social networks"
+  },
+  {
+    "code": "ORCS E4200",
+    "title": "Data-driven Decision Modeling",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Introduction to modeling, estimating, and solving decision-making problems in the context of artificial intelligence and analytics. Potential topics include choice models, quantity models, online learning using multi-armed bandits, dynamic decision modeling, dynamic games, and Bayesian learning theory. Practice both theory and applications using Python programming"
+  },
+  {
+    "code": "ORCS E4201",
+    "title": "Policy for Privacy Technologies",
+    "points": "3.00",
+    "prerequisites_raw": null,
+    "prerequisite_codes": [],
+    "description": "Introduction to privacy technologies, their use in practice, and privacy regulations. Potential topics include anonymization, differential privacy, cryptography, secure multi-party computation, and legislation. Course material will be abased in real-world use cases of these tools"
+  },
+  {
+    "code": "ORCS E4529",
+    "title": "Reinforcement Learning",
+    "points": "3.00",
+    "prerequisites_raw": "Prerequisites: Probability and statistics, basic optimization e.g., familiarity with linear and convex optimization, gradient descent, basic algorithm design constructs, familiarity with programming in python.",
+    "prerequisite_codes": [],
+    "description": "Markov Decision Processes (MDP) and Reinforcement Learning (RL) problems. Reinforcement Learning algorithms including Q-learning, policy gradient methods, actor-critic method. Reinforcement learning while doing exploration-exploitation dilemma, multi-armed bandit problem. Monte Carlo Tree Search methods, Distributional, Multi-agent, and Causal Reinforcement Learning"
+  }
+]

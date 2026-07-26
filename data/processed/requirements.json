@@ -1,0 +1,101 @@
+[
+  {
+    "section": "REQUIREMENTS",
+    "content": [
+      "Complete a total of 30 points (Courses must be at the 4000 level or above)",
+      "Maintain at least a 2.7 overall GPA. (No more than 1 D is permitted). The full Academic Standing Policy can be found here.",
+      "Complete the Columbia Engineering Professional Development & Leadership (PDL) requirement (Not applicable to CVN students)",
+      "Satisfy breadth requirements",
+      "Take at least 6 points of technical courses at the 6000 level",
+      "At most, up to 3 points of your degree can be Non-CS/Non-pathway if they are deemed relevant to your pathway and sufficiently technical in nature. Please submit the course syllabus to your CS Faculty Advisor for review, and then forward the approval confirmation email to ms-advising@cs.columbia.edu"
+    ]
+  },
+  {
+    "section": "PATHWAY OPTIONS",
+    "content": [
+      "For robust understanding and competency in one of the computer science disciplines, students should choose one of the pathways below. View each webpage for details on key and elective courses.",
+      [
+        [
+          "Computational Biology",
+          "Network Systems"
+        ],
+        [
+          "Computer Security",
+          "Software Systems"
+        ],
+        [
+          "Foundations of Computer Science",
+          "Vision, Graphics, Interaction, and Robotics"
+        ],
+        [
+          "Machine Learning",
+          "MS Personalized (by faculty invite only)"
+        ],
+        [
+          "Natural Language Processing",
+          "MS Thesis (by faculty invite only)"
+        ]
+      ]
+    ]
+  },
+  {
+    "section": "CS MS FACULTY PATHWAY ADVISORS",
+    "content": [
+      "CS Faculty Pathway Advisors will be assigned after you select a pathway in Mice. If you do not yet have a Mice account but are a CS MS student, please contact ms-advising@cs.columbia.edu. Contact your Faculty Pathway Advisor to get special permission for any course not specifically approved on your CS Pathway websites."
+    ]
+  },
+  {
+    "section": "DEGREE PROGRESS CHECKLIST",
+    "content": [
+      "Students should keep an updated copy of their Degree Progress Checklist on hand for any academic progress reviews with their Faculty and/or Admin advisor. This form will also be requested a few weeks before graduation to verify your program requirements are met.",
+      "List all coursework that should be used to meet your CS MS program requirements.",
+      "For all topics courses (COMS 4995 & COMS 6998 courses), remember to include the actual course title (for example, use \u201cCOMS 4995 Hacking for Defense\u201d NOT \u201cCOMS 4995\u201d).",
+      "For all Projects courses (COMS 6901), include the name of the instructor and how many points the course was worth.",
+      "For all Thesis courses (COMS 6902), include the name of the instructor and how many points the course was worth.",
+      "For all Personalized Pathway students, include the name of your advisor on your checklist.",
+      "For Advanced standing \u2013 mark which courses are approved by SEAS Academics.",
+      "For waived courses, list which course you are using to satisfy the points requirement for the waived course."
+    ]
+  },
+  {
+    "section": "TOPICS COURSES",
+    "content": [
+      "If you are interested in applying a specialized Topics in Computer Science courses (COMS 4995 or COMS 6998) to your Pathway electives, please view Topics Courses by Pathway Approval.",
+      "Students may take multiple sections of COMS 4995 and/or COMS 6998, as each topic title will vary by content each semester. If you aren\u2019t sure if a course is the same, please email ms-advising@cs.columbia.edu",
+      "No approval is required for the course to count as a General Elective.",
+      "A list of current and recent Topics Course Descriptions can be found here."
+    ]
+  },
+  {
+    "section": "MS IN COMPUTER ENGINEERING",
+    "content": [
+      "In addition to the Computer Science MS Program, we offer the Computer Engineering MS Program jointly with the Electrical Engineering Department. More information about the program can be found in the Computer Engineering section of the SEAS bulletin and on the Computer Engineering website."
+    ]
+  },
+  {
+    "section": "DUAL MS IN JOURNALISM AND COMPUTER SCIENCE",
+    "content": [
+      "Admitted students will enroll for a total of four semesters. In addition to taking classes already offered at the Journalism and Engineering schools, students will attend a seminar and workshop designed specifically for the dual degree program. The seminar will teach students about the impact of digital techniques on journalism; the emerging role of citizens in the news process; the influence of social media; and the changing business models that will support news gathering. In the workshop, students will use a hands-on approach to delve deeply into information design, focusing on how to build a site, section, or application from concept to development, ensuring the editorial goals are kept uppermost in mind. For more information, please visit the program website."
+    ]
+  },
+  {
+    "section": "IMPORTANT AND USEFUL LINKS",
+    "content": [
+      "MS FACULTY PATHWAY ADVISORS",
+      "MS PROGRAM FAQ",
+      "FIELDWORK/CPT FAQ",
+      "NEW MS STUDENTS WELCOME GUIDE",
+      "COLUMBIA ENGINEERING RESEARCH OPPORTUNITIES",
+      "COLUMBIA ENGINEERING PROFESSIONAL DEVELOPMENT & LEADERSHIP (PDL) PROGRAM",
+      "COMPUTER SCIENCE ACADEMIC HONESTY POLICY",
+      "COMPUTER SCIENCE ACADEMIC STANDING POLICY"
+    ]
+  },
+  {
+    "section": "ADMISSIONS INFORMATION",
+    "content": [
+      "SEAS Admission FAQ SEAS Admissions contact: seasgradmit@columbia.edu",
+      "CS Admission FAQ CS Admissions contact: ms-admissions@cs.columbia.edu"
+    ]
+  }
+]

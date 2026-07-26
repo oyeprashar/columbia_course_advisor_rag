@@ -18,6 +18,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 FOOTNOTE_RE = re.compile(r"\[\d+\]")
+LEADING_CONNECTOR_RE = re.compile(r"^(?:either|any of|one of)\s+", re.IGNORECASE)
 
 
 def clean_text(text: str) -> str:
@@ -61,7 +62,8 @@ def parse_pathway_html(html: str, pathway_name: str) -> list[dict]:
 
             course_id_clean = FOOTNOTE_RE.sub("", course_id_raw).strip()
             course_options = [
-                clean_text(opt) for opt in re.split(r"\bor\b", course_id_clean, flags=re.IGNORECASE)
+                LEADING_CONNECTOR_RE.sub("", clean_text(opt))
+                for opt in re.split(r"\bor\b", course_id_clean, flags=re.IGNORECASE)
             ]
 
             group = None

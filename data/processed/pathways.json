@@ -1,0 +1,2827 @@
+[
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS W4761",
+    "course_options": [
+      "COMS W4761"
+    ],
+    "title": "Computational Genomics"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS W4762",
+    "course_options": [
+      "COMS W4762"
+    ],
+    "title": "Machine Learning for Functional Genomics"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS W4771 or STAT 4400",
+    "course_options": [
+      "COMS W4771",
+      "STAT 4400"
+    ],
+    "title": "Machine Learning or Statistical Machine Learning"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "STAT 4001/IEOR W4150*",
+    "course_options": [
+      "STAT 4001/IEOR W4150*"
+    ],
+    "title": "Probability and Statistic"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS W4111",
+    "course_options": [
+      "COMS W4111"
+    ],
+    "title": "Introduction to Databases"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS W4252",
+    "course_options": [
+      "COMS W4252"
+    ],
+    "title": "Introduction to ComputationalLearning Theory"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS W4772 (E6772)",
+    "course_options": [
+      "COMS W4772 (E6772)"
+    ],
+    "title": "Advanced Machine Learning"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS W4995",
+    "course_options": [
+      "COMS W4995"
+    ],
+    "title": "Visit the topics courses page to see which COMS 4995 courses apply"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS E6111",
+    "course_options": [
+      "COMS E6111"
+    ],
+    "title": "Advanced Database Systems"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS E6901",
+    "course_options": [
+      "COMS E6901"
+    ],
+    "title": "Projects in Computer Science (Advisor approval required)"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS 6706",
+    "course_options": [
+      "COMS 6706"
+    ],
+    "title": "Advanced Spoken Language Processing"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "COMS E6998",
+    "course_options": [
+      "COMS E6998"
+    ],
+    "title": "Visit the topics courses page to see which COMS 6998 courses apply"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "CMBS 5305",
+    "course_options": [
+      "CMBS 5305"
+    ],
+    "title": "Topics in Mathematical Genomics and Biology"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOC W4512",
+    "course_options": [
+      "BIOC W4512"
+    ],
+    "title": "Molecular Biology"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4031",
+    "course_options": [
+      "BIOL W4031"
+    ],
+    "title": "Genetics I"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4032",
+    "course_options": [
+      "BIOL W4032"
+    ],
+    "title": "Genetics II"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4034",
+    "course_options": [
+      "BIOL W4034"
+    ],
+    "title": "Biotechnology"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4037",
+    "course_options": [
+      "BIOL W4037"
+    ],
+    "title": "Bioinformatics of Gene Expression"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4041",
+    "course_options": [
+      "BIOL W4041"
+    ],
+    "title": "Cell Biology"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4070",
+    "course_options": [
+      "BIOL W4070"
+    ],
+    "title": "The Biology and Physics of Single Molecules"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4300",
+    "course_options": [
+      "BIOL W4300"
+    ],
+    "title": "Drugs and Disease"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4073",
+    "course_options": [
+      "BIOL W4073"
+    ],
+    "title": "Cellular and Molecular Immunology"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4400",
+    "course_options": [
+      "BIOL W4400"
+    ],
+    "title": "Biological Networks"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W4510",
+    "course_options": [
+      "BIOL W4510"
+    ],
+    "title": "Genomics of Gene Regulation"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W5004",
+    "course_options": [
+      "BIOL W5004"
+    ],
+    "title": "Neuro Biology"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL W5031",
+    "course_options": [
+      "BIOL W5031"
+    ],
+    "title": "Genetics (This replaces BIOL 4031 and BIOL 4032. Courses cannot be double-counted.)"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BIOL G6560",
+    "course_options": [
+      "BIOL G6560"
+    ],
+    "title": "Human Evolutionary Genetics"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BCHM G4026",
+    "course_options": [
+      "BCHM G4026"
+    ],
+    "title": "Biochemistry of Nucleic and Protein Synthesis"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BCHM G4250",
+    "course_options": [
+      "BCHM G4250"
+    ],
+    "title": "Biochemistry and Molecular Biophysics"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BCHM G6300",
+    "course_options": [
+      "BCHM G6300"
+    ],
+    "title": "Biochemistry and Molecular Biology of Eukaryotes I"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BCHM G6301",
+    "course_options": [
+      "BCHM G6301"
+    ],
+    "title": "Biochemistry and Molecular Biology of Eukaryotes II"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BMEN E6480",
+    "course_options": [
+      "BMEN E6480"
+    ],
+    "title": "Computational Neural Modeling and Neuroengineering"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "GEND G4050",
+    "course_options": [
+      "GEND G4050"
+    ],
+    "title": "Advanced Eukaryotic Molecular Genetics"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "STAT G6101",
+    "course_options": [
+      "STAT G6101"
+    ],
+    "title": "Statistical Modeling and Data Analysis"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "APMA E4400",
+    "course_options": [
+      "APMA E4400"
+    ],
+    "title": "Introduction to Biophysical Modeling"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BINF G4006",
+    "course_options": [
+      "BINF G4006"
+    ],
+    "title": "Translational Bioinformatics"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BINF G4014",
+    "course_options": [
+      "BINF G4014"
+    ],
+    "title": "Computational Biology I: Functional and Integrative Genomics"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BINF G4015",
+    "course_options": [
+      "BINF G4015"
+    ],
+    "title": "Computational Systems Biology: Proteins, Networks, Function"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BINF G4017",
+    "course_options": [
+      "BINF G4017"
+    ],
+    "title": "Deep Sequencing"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BINF G6001",
+    "course_options": [
+      "BINF G6001"
+    ],
+    "title": "Projects in Biomedical Informatics"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "ECBM E4060",
+    "course_options": [
+      "ECBM E4060"
+    ],
+    "title": "Intro to Genomic Info Sci & Tech"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "ECBM 6070",
+    "course_options": [
+      "ECBM 6070"
+    ],
+    "title": "NeroScience and Deep Learning (Any other topic under this course number must be advisor approved)"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "EECS E6720",
+    "course_options": [
+      "EECS E6720"
+    ],
+    "title": "Bayesian Models for Machine Learning"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "EECS E6894",
+    "course_options": [
+      "EECS E6894"
+    ],
+    "title": "Deep Learning for Computer Vision and Natural Language Processing"
+  },
+  {
+    "pathway": "Computational Biology",
+    "group": null,
+    "course_id_raw": "BMCS 4575",
+    "course_options": [
+      "BMCS 4575"
+    ],
+    "title": "High-Dimensional Statistics for Biomedical Data"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4118",
+    "course_options": [
+      "COMS W4118"
+    ],
+    "title": "Operating Systems"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4156",
+    "course_options": [
+      "COMS W4156"
+    ],
+    "title": "Adv. Software Engineering"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4181",
+    "course_options": [
+      "COMS W4181"
+    ],
+    "title": "Computer Security I"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4182",
+    "course_options": [
+      "COMS W4182"
+    ],
+    "title": "Computer Security II"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "Either COMS W4261 or COMS E6185",
+    "course_options": [
+      "COMS W4261",
+      "COMS E6185"
+    ],
+    "title": "Introduction to Cryptography or Intrusion Detection"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4118",
+    "course_options": [
+      "COMS W4118"
+    ],
+    "title": "Operating Systems"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4156",
+    "course_options": [
+      "COMS W4156"
+    ],
+    "title": "Adv. Software Engineering"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4180",
+    "course_options": [
+      "COMS W4180"
+    ],
+    "title": "Network Security"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4187",
+    "course_options": [
+      "COMS W4187"
+    ],
+    "title": "Security Architecture and Engineering"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "Either COMS W4261 or COMS E6185",
+    "course_options": [
+      "COMS W4261",
+      "COMS E6185"
+    ],
+    "title": "Introduction to Cryptography or Intrusion Detection"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4115",
+    "course_options": [
+      "COMS W4115"
+    ],
+    "title": "Programming Languages and Translators"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS/CSEE W4119",
+    "course_options": [
+      "COMS/CSEE W4119"
+    ],
+    "title": "Computer Networks"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4186",
+    "course_options": [
+      "COMS W4186"
+    ],
+    "title": "Malware Analysis & Reverse Engineering"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4261",
+    "course_options": [
+      "COMS W4261"
+    ],
+    "title": "Introduction to Cryptography"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS W4995",
+    "course_options": [
+      "COMS W4995"
+    ],
+    "title": "Visit the topics courses page to see which COMS 4995 courses apply"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6118",
+    "course_options": [
+      "COMS E6118"
+    ],
+    "title": "Operating Systems, II"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6181",
+    "course_options": [
+      "COMS E6181"
+    ],
+    "title": "Advanced Internet Services"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6183",
+    "course_options": [
+      "COMS E6183"
+    ],
+    "title": "Security"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6184*",
+    "course_options": [
+      "COMS E6184*"
+    ],
+    "title": "Privacy & Anonymity"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6185",
+    "course_options": [
+      "COMS E6185"
+    ],
+    "title": "Intrusion and Anomaly Detection Systems"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6261*",
+    "course_options": [
+      "COMS E6261*"
+    ],
+    "title": "Advanced Cryptography"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6424",
+    "course_options": [
+      "COMS E6424"
+    ],
+    "title": "Hardware Security"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "CSEE E6863",
+    "course_options": [
+      "CSEE E6863"
+    ],
+    "title": "Formal Verification of Hardware and Software Systems"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6901",
+    "course_options": [
+      "COMS E6901"
+    ],
+    "title": "Projects in Computer Science (Advisor approval required)"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "COMS E6998",
+    "course_options": [
+      "COMS E6998"
+    ],
+    "title": "Visit the topics courses page to see which COMS 6998 courses apply"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "CSEE W4824",
+    "course_options": [
+      "CSEE W4824"
+    ],
+    "title": "Computer Architecture"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "ELEN E4703",
+    "course_options": [
+      "ELEN E4703"
+    ],
+    "title": "Wireless Communications"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "ELEN E6761",
+    "course_options": [
+      "ELEN E6761"
+    ],
+    "title": "Computer Communication Networks"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "ELEN E6886",
+    "course_options": [
+      "ELEN E6886"
+    ],
+    "title": "Topics in Multimedia Security"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "ELEN E6950",
+    "course_options": [
+      "ELEN E6950"
+    ],
+    "title": "Wireless & Mobile Nets, I"
+  },
+  {
+    "pathway": "Computer Security",
+    "group": null,
+    "course_id_raw": "ELEN E6951",
+    "course_options": [
+      "ELEN E6951"
+    ],
+    "title": "Wireless & Mobile Nets, II"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "CSOR W4231",
+    "course_options": [
+      "CSOR W4231"
+    ],
+    "title": "Analysis of Algorithms I"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS W4236",
+    "course_options": [
+      "COMS W4236"
+    ],
+    "title": "Intro. to Computational Complexity"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS W4203",
+    "course_options": [
+      "COMS W4203"
+    ],
+    "title": "Graph Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS W4205",
+    "course_options": [
+      "COMS W4205"
+    ],
+    "title": "Combinatorial Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS W4241",
+    "course_options": [
+      "COMS W4241"
+    ],
+    "title": "Numerical Algorithms and Complexity"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS W4252",
+    "course_options": [
+      "COMS W4252"
+    ],
+    "title": "Introduction to Computational Learning Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS W4261",
+    "course_options": [
+      "COMS W4261"
+    ],
+    "title": "Introduction to Cryptography"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS W4281",
+    "course_options": [
+      "COMS W4281"
+    ],
+    "title": "Introduction to Quantum Computing"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 4203",
+    "course_options": [
+      "COMS 4203"
+    ],
+    "title": "Graph Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 4205",
+    "course_options": [
+      "COMS 4205"
+    ],
+    "title": "Combinatorial Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 4241",
+    "course_options": [
+      "COMS 4241"
+    ],
+    "title": "Numerical Algorithms and Complexity"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 4252",
+    "course_options": [
+      "COMS 4252"
+    ],
+    "title": "Introduction to Computational Learning Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 4261",
+    "course_options": [
+      "COMS 4261"
+    ],
+    "title": "Introduction to Cryptography"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 4281",
+    "course_options": [
+      "COMS 4281"
+    ],
+    "title": "Introduction to Quantum Computing"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 4295",
+    "course_options": [
+      "COMS 4295"
+    ],
+    "title": "Topics in Theoretical CS"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS W4995",
+    "course_options": [
+      "COMS W4995"
+    ],
+    "title": "Visit the topics courses page to see which COMS 4995 courses apply"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "CSEE 6180",
+    "course_options": [
+      "CSEE 6180"
+    ],
+    "title": "Performance Analysis"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 6204",
+    "course_options": [
+      "COMS 6204"
+    ],
+    "title": "Topics in Graph Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 6232",
+    "course_options": [
+      "COMS 6232"
+    ],
+    "title": "Analysis of Algorithms II"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 6253",
+    "course_options": [
+      "COMS 6253"
+    ],
+    "title": "Computational Learning Theory II"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 6261",
+    "course_options": [
+      "COMS 6261"
+    ],
+    "title": "Advanced Cryptography"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 6291",
+    "course_options": [
+      "COMS 6291"
+    ],
+    "title": "Theoretical Topics in C.S."
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 6901",
+    "course_options": [
+      "COMS 6901"
+    ],
+    "title": "Projects in Computer Science (Advisor approval required)"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 6298",
+    "course_options": [
+      "COMS 6298"
+    ],
+    "title": "Advanced Topics in Theoretical CS"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "COMS 6998",
+    "course_options": [
+      "COMS 6998"
+    ],
+    "title": "Visit the topics courses page to see which COMS 6998 courses apply"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "CSPH G4802",
+    "course_options": [
+      "CSPH G4802"
+    ],
+    "title": "Incompleteness Results in Logic"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "STAT 4001 (previously SIEO 4150)",
+    "course_options": [
+      "STAT 4001 (previously SIEO 4150)"
+    ],
+    "title": "Intro. to Probability and Statistics"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E4407",
+    "course_options": [
+      "IEOR E4407"
+    ],
+    "title": "Game Theoretic Models of Operation"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6400",
+    "course_options": [
+      "IEOR E6400"
+    ],
+    "title": "Scheduling: Deterministic Models"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6603",
+    "course_options": [
+      "IEOR E6603"
+    ],
+    "title": "Combinatorial Optimization"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6606",
+    "course_options": [
+      "IEOR E6606"
+    ],
+    "title": "Advanced Topics in Network Flows"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6608",
+    "course_options": [
+      "IEOR E6608"
+    ],
+    "title": "Integer Programming"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6610",
+    "course_options": [
+      "IEOR E6610"
+    ],
+    "title": "Approximation Algorithms"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6613",
+    "course_options": [
+      "IEOR E6613"
+    ],
+    "title": "Optimization I"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6614",
+    "course_options": [
+      "IEOR E6614"
+    ],
+    "title": "Optimization II"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR 6616",
+    "course_options": [
+      "IEOR 6616"
+    ],
+    "title": "Convex Optimization"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6711",
+    "course_options": [
+      "IEOR E6711"
+    ],
+    "title": "Stochastic Models I"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E6712",
+    "course_options": [
+      "IEOR E6712"
+    ],
+    "title": "Stochastic motels II"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "IEOR E8100",
+    "course_options": [
+      "IEOR E8100"
+    ],
+    "title": "Doctoral Seminar on Convex Optimization"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "ELEN 6717",
+    "course_options": [
+      "ELEN 6717"
+    ],
+    "title": "Information Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "ELEN E6718",
+    "course_options": [
+      "ELEN E6718"
+    ],
+    "title": "Algebraic Coding Theory"
+  },
+  {
+    "pathway": "Foundations of Computer Science",
+    "group": null,
+    "course_id_raw": "ELEN E6970",
+    "course_options": [
+      "ELEN E6970"
+    ],
+    "title": "Resource Allocation and Networking Games"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS W4252",
+    "course_options": [
+      "COMS W4252"
+    ],
+    "title": "Introduction to Computational Learning Theory"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS W4771 or COMS W4721 or ELEN 4720 [1]",
+    "course_options": [
+      "COMS W4771",
+      "COMS W4721",
+      "ELEN 4720"
+    ],
+    "title": "Machine Learning OR Machine Learning for Data Science OR Machine Learning for Signals, Information and Data"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS W4772 or COMS 6772",
+    "course_options": [
+      "COMS W4772",
+      "COMS 6772"
+    ],
+    "title": "Advanced Machine Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS 4776",
+    "course_options": [
+      "COMS 4776"
+    ],
+    "title": "Neural Networks & Deep Learning (Previously listed as COMS 4995: Neural Networks Deep Learning)"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS/STAT G6509/6701",
+    "course_options": [
+      "COMS/STAT G6509/6701"
+    ],
+    "title": "Foundations of Graphical Models (This course is an advanced course, but MS students may register for it with instructor approval)"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS 4732",
+    "course_options": [
+      "COMS 4732"
+    ],
+    "title": "Computer Vision II"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS 4773",
+    "course_options": [
+      "COMS 4773"
+    ],
+    "title": "Machine Learning Theory"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS 4774",
+    "course_options": [
+      "COMS 4774"
+    ],
+    "title": "Unsupervised Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "A",
+    "course_id_raw": "COMS 4775",
+    "course_options": [
+      "COMS 4775"
+    ],
+    "title": "Causal Inference (Previously listed as COMS 4995: Causal Inference)"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "B",
+    "course_id_raw": "COMS W4731",
+    "course_options": [
+      "COMS W4731"
+    ],
+    "title": "Computer Vision I"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "B",
+    "course_id_raw": "COMS W4705",
+    "course_options": [
+      "COMS W4705"
+    ],
+    "title": "Natural Language Processing"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "B",
+    "course_id_raw": "COMS W4733",
+    "course_options": [
+      "COMS W4733"
+    ],
+    "title": "Computational Aspects of Robotics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": "B",
+    "course_id_raw": "COMS W4701",
+    "course_options": [
+      "COMS W4701"
+    ],
+    "title": "Artificial Intelligence"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4111",
+    "course_options": [
+      "COMS W4111"
+    ],
+    "title": "Introduction to Databases"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4252",
+    "course_options": [
+      "COMS W4252"
+    ],
+    "title": "Introduction to Computational Learning Theory"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "CSOR W4246",
+    "course_options": [
+      "CSOR W4246"
+    ],
+    "title": "Algorithms for Data Science"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4705",
+    "course_options": [
+      "COMS W4705"
+    ],
+    "title": "Intro to Natural Language Processing"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4731",
+    "course_options": [
+      "COMS W4731"
+    ],
+    "title": "Computer Vision"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS 4732",
+    "course_options": [
+      "COMS 4732"
+    ],
+    "title": "Computer Vision II"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4733",
+    "course_options": [
+      "COMS W4733"
+    ],
+    "title": "Computational Aspects of Robotics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4761",
+    "course_options": [
+      "COMS W4761"
+    ],
+    "title": "Computational Genomics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E4762",
+    "course_options": [
+      "COMS E4762"
+    ],
+    "title": "Machine Learning for Functional Genomics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4771 or COMS W4721 or ELEN 4720 [1]",
+    "course_options": [
+      "COMS W4771",
+      "COMS W4721",
+      "ELEN 4720"
+    ],
+    "title": "Machine Learning OR Machine Learning for Data Science OR Machine Learning for Signals, Information and Data"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4772 or COMS 6772",
+    "course_options": [
+      "COMS W4772",
+      "COMS 6772"
+    ],
+    "title": "Advanced Machine Learning (or COMS 6998: Machine Learning Personalization only valid if taken in Spring 2018)"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4776",
+    "course_options": [
+      "COMS W4776"
+    ],
+    "title": "Machine Learning for Data Science"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS W4995",
+    "course_options": [
+      "COMS W4995"
+    ],
+    "title": "Visit the topics courses page to see which COMS 4995 courses apply"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E6111",
+    "course_options": [
+      "COMS E6111"
+    ],
+    "title": "Advanced Database Systems"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E6232",
+    "course_options": [
+      "COMS E6232"
+    ],
+    "title": "Analysis of Algorithms II"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E6253",
+    "course_options": [
+      "COMS E6253"
+    ],
+    "title": "Advanced Topics in Computational Learning Theory"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS 6706",
+    "course_options": [
+      "COMS 6706"
+    ],
+    "title": "Advanced Spoken Language Processing"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E6717 (ELEN E6717)",
+    "course_options": [
+      "COMS E6717 (ELEN E6717)"
+    ],
+    "title": "Information Theory"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E6735",
+    "course_options": [
+      "COMS E6735"
+    ],
+    "title": "Visual Databases"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E6737",
+    "course_options": [
+      "COMS E6737"
+    ],
+    "title": "Biometrics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E6901",
+    "course_options": [
+      "COMS E6901"
+    ],
+    "title": "Projects in Computer Science (Advisor approval required)"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "COMS E6998",
+    "course_options": [
+      "COMS E6998"
+    ],
+    "title": "Visit the topics courses page to see which COMS 6998 courses apply"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "CSEE E6892",
+    "course_options": [
+      "CSEE E6892"
+    ],
+    "title": "Bayesian Models in Machine Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "CSEE E6898",
+    "course_options": [
+      "CSEE E6898"
+    ],
+    "title": "Large-Scale Machine Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "CSEE E6898",
+    "course_options": [
+      "CSEE E6898"
+    ],
+    "title": "Sparse Signal Modeling"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "APMA E4990",
+    "course_options": [
+      "APMA E4990"
+    ],
+    "title": "Modeling Social Data"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "BINF G4006",
+    "course_options": [
+      "BINF G4006"
+    ],
+    "title": "Translational Bioinformatics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "ECBM E4040",
+    "course_options": [
+      "ECBM E4040"
+    ],
+    "title": "Neural Networks and Deep Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "ECBM E6040/6070",
+    "course_options": [
+      "ECBM E6040/6070"
+    ],
+    "title": "Neural Networks and Deep Learning Research"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "EECS E6691",
+    "course_options": [
+      "EECS E6691"
+    ],
+    "title": "Topics in  Data-Driven Analysis & Comp: Advanced Deep Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "EECS E6699",
+    "course_options": [
+      "EECS E6699"
+    ],
+    "title": "Topics in Data-Driven Analysis and Computation: Mathematics of Deep Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "EECS E6720",
+    "course_options": [
+      "EECS E6720"
+    ],
+    "title": "Bayesian Models of Machine Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "EECS E6870",
+    "course_options": [
+      "EECS E6870"
+    ],
+    "title": "Speech Recognition"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "EECS E6893",
+    "course_options": [
+      "EECS E6893"
+    ],
+    "title": "Big Data Analytics or Topics-Information Processing (May only count 1 of these)"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "EECS E6895",
+    "course_options": [
+      "EECS E6895"
+    ],
+    "title": "Topic Adv Big Data Analytics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "EECS E6894",
+    "course_options": [
+      "EECS E6894"
+    ],
+    "title": "Deep Learning for Computer Vision and Natural Language Processing"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "ELEN 6885",
+    "course_options": [
+      "ELEN 6885"
+    ],
+    "title": "Reinforcement Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "ELEN E6886",
+    "course_options": [
+      "ELEN E6886"
+    ],
+    "title": "Sparse Representations and Higher Dimensional Geometry"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "ELEN E6899",
+    "course_options": [
+      "ELEN E6899"
+    ],
+    "title": "Topics in Information Processing: Autonomous Multi-Agent Systems"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "IEOR E6613",
+    "course_options": [
+      "IEOR E6613"
+    ],
+    "title": "Optimization I"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "IEOR 6617",
+    "course_options": [
+      "IEOR 6617"
+    ],
+    "title": "Machine Learning and High-Dimensional Data"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "IEOR E8100",
+    "course_options": [
+      "IEOR E8100"
+    ],
+    "title": "Optimization Methods in Machine Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "IEOR E8100",
+    "course_options": [
+      "IEOR E8100"
+    ],
+    "title": "Big Data & Machine Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "MECS E6615",
+    "course_options": [
+      "MECS E6615"
+    ],
+    "title": "Advanced Robotic Manipulation"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "MEEC E6600",
+    "course_options": [
+      "MEEC E6600"
+    ],
+    "title": "Mathematics of Machine Learning, Signals, and Control"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT 4001 (previously known as SIEO 4150)",
+    "course_options": [
+      "STAT 4001 (previously known as SIEO 4150)"
+    ],
+    "title": "Introduction to Probability and Statistics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT W4201/4291/5291 or IEOR 4150",
+    "course_options": [
+      "STAT W4201/4291/5291",
+      "IEOR 4150"
+    ],
+    "title": "Probability and Statistics/Advanced Data Analysis"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT W4240* or IEOR 4540",
+    "course_options": [
+      "STAT W4240*",
+      "IEOR 4540"
+    ],
+    "title": "Data Mining"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT W4282 or STAT GU4205",
+    "course_options": [
+      "STAT W4282",
+      "STAT GU4205"
+    ],
+    "title": "Linear Regression/Time Series Analysis/Linear Regression Models"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT W4249/STAT 4243",
+    "course_options": [
+      "STAT W4249/STAT 4243"
+    ],
+    "title": "Applied Data Science"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT G4400/4241/5241*",
+    "course_options": [
+      "STAT G4400/4241/5241*"
+    ],
+    "title": "Statistical Machine Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT W4640/4224/5224",
+    "course_options": [
+      "STAT W4640/4224/5224"
+    ],
+    "title": "Bayesian Statistics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT 5242",
+    "course_options": [
+      "STAT 5242"
+    ],
+    "title": "Advanced Machine Learning"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT W4700",
+    "course_options": [
+      "STAT W4700"
+    ],
+    "title": "Probability and Statistics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT G6101",
+    "course_options": [
+      "STAT G6101"
+    ],
+    "title": "Statistical Modeling and Data Analysis I/ Applied Statistics I"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT G6104",
+    "course_options": [
+      "STAT G6104"
+    ],
+    "title": "Computational Statistics"
+  },
+  {
+    "pathway": "Machine Learning",
+    "group": null,
+    "course_id_raw": "STAT GR8101",
+    "course_options": [
+      "STAT GR8101"
+    ],
+    "title": "Topics in Applied Statistics: Applied Causality"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS 4705",
+    "course_options": [
+      "COMS 4705"
+    ],
+    "title": "Natural Language Processing"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS 4706/6706",
+    "course_options": [
+      "COMS 4706/6706"
+    ],
+    "title": "Spoken Language Processing (COMS 4706), or Advanced Spoken Language Processing (COMS 6706, formerly COMS 6998)"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS 4975/6975  or 4995/6998",
+    "course_options": [
+      "COMS 4975/6975",
+      "4995/6998"
+    ],
+    "title": "Any one course from Topics in Natural Language Processing (COMS 4975), Advanced Topics in Natural Language Processing (COMS 6975), or another topics course relevant to Natural Language Processing."
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS W4170",
+    "course_options": [
+      "COMS W4170"
+    ],
+    "title": "User Interface Design"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS W4172",
+    "course_options": [
+      "COMS W4172"
+    ],
+    "title": "3D User Interfaces"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS W4252",
+    "course_options": [
+      "COMS W4252"
+    ],
+    "title": "Introduction to Computational Learning Theory"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS W4701",
+    "course_options": [
+      "COMS W4701"
+    ],
+    "title": "Artificial Intelligence"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS W4771 or W4721*",
+    "course_options": [
+      "COMS W4771",
+      "W4721*"
+    ],
+    "title": "Machine Learning or Machine Learning for Data Science"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS W4772",
+    "course_options": [
+      "COMS W4772"
+    ],
+    "title": "Advanced Machine Learning"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS 4975",
+    "course_options": [
+      "COMS 4975"
+    ],
+    "title": "Topics in NLP"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS 4995",
+    "course_options": [
+      "COMS 4995"
+    ],
+    "title": "Visit the topics courses page to see which COMS 4995 courses apply"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS 6901",
+    "course_options": [
+      "COMS 6901"
+    ],
+    "title": "Projects in Computer Science (Advisor approval required)"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS 6975",
+    "course_options": [
+      "COMS 6975"
+    ],
+    "title": "Advanced Topics in NLP"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "COMS 6998",
+    "course_options": [
+      "COMS 6998"
+    ],
+    "title": "Visit the topics courses page to see which COMS 6998 courses apply"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "SIEO W4150**",
+    "course_options": [
+      "SIEO W4150**"
+    ],
+    "title": "Probability and Statistics"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "ECBM E6040",
+    "course_options": [
+      "ECBM E6040"
+    ],
+    "title": "Neural Networks and Deep Learning"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "EECS E6894",
+    "course_options": [
+      "EECS E6894"
+    ],
+    "title": "Deep Learning for Computer Vision and Natural Language Processing"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "ELEN E4810",
+    "course_options": [
+      "ELEN E4810"
+    ],
+    "title": "Digital Signal Processing"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "ELEN E6829",
+    "course_options": [
+      "ELEN E6829"
+    ],
+    "title": "Speech/Audio Processing-Recognition"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "MEEC E6600",
+    "course_options": [
+      "MEEC E6600"
+    ],
+    "title": "Mathematics of Machine Learning, Signals, and Control"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "PSYC G4232",
+    "course_options": [
+      "PSYC G4232"
+    ],
+    "title": "Production and Perception of Language"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "PSYC G4275",
+    "course_options": [
+      "PSYC G4275"
+    ],
+    "title": "Contemporary Topics in Language and Communication"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "PSYC G4205",
+    "course_options": [
+      "PSYC G4205"
+    ],
+    "title": "Models of Cognition"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "PSYC 4236",
+    "course_options": [
+      "PSYC 4236"
+    ],
+    "title": "Machine Intelligence"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "PSYC G4470",
+    "course_options": [
+      "PSYC G4470"
+    ],
+    "title": "Psychology and Neuropsychology of Language"
+  },
+  {
+    "pathway": "Natural Language Processing",
+    "group": null,
+    "course_id_raw": "PSYC G6006",
+    "course_options": [
+      "PSYC G6006"
+    ],
+    "title": "Introduction to Statistical Modelling in Psychology"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "CSEE W4119",
+    "course_options": [
+      "CSEE W4119"
+    ],
+    "title": "Computer Networks"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS W4118",
+    "course_options": [
+      "COMS W4118"
+    ],
+    "title": "Operating Systems"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS W4115",
+    "course_options": [
+      "COMS W4115"
+    ],
+    "title": "Programming Languages and Translators"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "CSEE W4140",
+    "course_options": [
+      "CSEE W4140"
+    ],
+    "title": "Networking Laboratory"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS W4180",
+    "course_options": [
+      "COMS W4180"
+    ],
+    "title": "Intro to Network Security"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS W4261",
+    "course_options": [
+      "COMS W4261"
+    ],
+    "title": "Intro to Cryptography"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS W4737",
+    "course_options": [
+      "COMS W4737"
+    ],
+    "title": "Biometrics"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS W4995",
+    "course_options": [
+      "COMS W4995"
+    ],
+    "title": "Visit the topics courses page to see which COMS 4995 courses apply"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6118",
+    "course_options": [
+      "COMS E6118"
+    ],
+    "title": "Operating Systems, II"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6125",
+    "course_options": [
+      "COMS E6125"
+    ],
+    "title": "Web-enhanced Info Management (Whim)"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6180",
+    "course_options": [
+      "COMS E6180"
+    ],
+    "title": "Modeling & Performance"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6181",
+    "course_options": [
+      "COMS E6181"
+    ],
+    "title": "Advanced Internet Services"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6184",
+    "course_options": [
+      "COMS E6184"
+    ],
+    "title": "Anonymity and Privacy"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6185",
+    "course_options": [
+      "COMS E6185"
+    ],
+    "title": "Intrusion and Anomaly Detection Systems"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6717 (ELEN E6717)",
+    "course_options": [
+      "COMS E6717 (ELEN E6717)"
+    ],
+    "title": "Information Theory"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6737",
+    "course_options": [
+      "COMS E6737"
+    ],
+    "title": "Biometrics"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6901",
+    "course_options": [
+      "COMS E6901"
+    ],
+    "title": "Projects in Computer Science (Advisor approval required)"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "COMS E6998",
+    "course_options": [
+      "COMS E6998"
+    ],
+    "title": "Visit the topics courses page to see which COMS 6998 courses apply"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "ELEN E4703",
+    "course_options": [
+      "ELEN E4703"
+    ],
+    "title": "Wireless Communications"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "ELEN E6761",
+    "course_options": [
+      "ELEN E6761"
+    ],
+    "title": "Computer Communication Networks"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "ELEN E6767",
+    "course_options": [
+      "ELEN E6767"
+    ],
+    "title": "INTERNET ECON, ENG & SOCIETY"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "ELEN E6770",
+    "course_options": [
+      "ELEN E6770"
+    ],
+    "title": "Next-Generation IP Networks"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "ELEN E6771",
+    "course_options": [
+      "ELEN E6771"
+    ],
+    "title": "Topics: 5G Programmable Networks"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "ELEN E6771",
+    "course_options": [
+      "ELEN E6771"
+    ],
+    "title": "Topics: Next Generation Networks"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "ELEN E6950",
+    "course_options": [
+      "ELEN E6950"
+    ],
+    "title": "Wireless & Mobile Nets, I"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "EECS 4951",
+    "course_options": [
+      "EECS 4951"
+    ],
+    "title": "Wireless Networks & Systems"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "SIEO (STAT) W4606/4207/5207",
+    "course_options": [
+      "SIEO (STAT) W4606/4207/5207"
+    ],
+    "title": "Elementary Stochastic Processes"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "IEOR E6704",
+    "course_options": [
+      "IEOR E6704"
+    ],
+    "title": "Queueing Theory and Applications"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "IEOR E6801",
+    "course_options": [
+      "IEOR E6801"
+    ],
+    "title": "Monte Carlo & Discrete Event Simulation"
+  },
+  {
+    "pathway": "Network Systems",
+    "group": null,
+    "course_id_raw": "IEOR E4406",
+    "course_options": [
+      "IEOR E4406"
+    ],
+    "title": "Facilities Location, Routing, Network Design"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4115",
+    "course_options": [
+      "COMS W4115"
+    ],
+    "title": "Programming Languages and Translators"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4118",
+    "course_options": [
+      "COMS W4118"
+    ],
+    "title": "Operating Systems I"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4152* OR COMS W4156*",
+    "course_options": [
+      "COMS W4152*",
+      "COMS W4156*"
+    ],
+    "title": "Engineering Software as a Service OR Advanced Software Engineering"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4111",
+    "course_options": [
+      "COMS W4111"
+    ],
+    "title": "Introduction to Databases"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4112",
+    "course_options": [
+      "COMS W4112"
+    ],
+    "title": "Database System Implementation"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4113",
+    "course_options": [
+      "COMS W4113"
+    ],
+    "title": "Fundamentals of Large-Scale Distributed Systems"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4117",
+    "course_options": [
+      "COMS W4117"
+    ],
+    "title": "Compilers and Interpreters"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "CSEE W4119",
+    "course_options": [
+      "CSEE W4119"
+    ],
+    "title": "Computer Networks"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4130",
+    "course_options": [
+      "COMS W4130"
+    ],
+    "title": "Principles and Practice of Parallel Programming"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4153",
+    "course_options": [
+      "COMS W4153"
+    ],
+    "title": "Cloud Computing (Fall 2024 and beyond)"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4170",
+    "course_options": [
+      "COMS W4170"
+    ],
+    "title": "User Interface Design"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4181",
+    "course_options": [
+      "COMS W4181"
+    ],
+    "title": "Computer Security I"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4444",
+    "course_options": [
+      "COMS W4444"
+    ],
+    "title": "Programming and Problem Solving"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "CSEE W4840",
+    "course_options": [
+      "CSEE W4840"
+    ],
+    "title": "Embedded Systems"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS W4995 **",
+    "course_options": [
+      "COMS W4995 **"
+    ],
+    "title": "Topics in Computer Science (Visit the topics courses page to see which COMS 4995 courses apply)"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6111",
+    "course_options": [
+      "COMS E6111"
+    ],
+    "title": "Advanced Database Systems"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6113",
+    "course_options": [
+      "COMS E6113"
+    ],
+    "title": "Topics in Database Systems"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6114",
+    "course_options": [
+      "COMS E6114"
+    ],
+    "title": "Advanced Distributed Systems"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6117",
+    "course_options": [
+      "COMS E6117"
+    ],
+    "title": "Topics in Programming Languages and Translators"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6118",
+    "course_options": [
+      "COMS E6118"
+    ],
+    "title": "Operating Systems II"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6121",
+    "course_options": [
+      "COMS E6121"
+    ],
+    "title": "Reliable Software"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6156",
+    "course_options": [
+      "COMS E6156"
+    ],
+    "title": "Topics in Software Engineering"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6156",
+    "course_options": [
+      "COMS E6156"
+    ],
+    "title": "Cloud Computing (Prior to Fall 2024)"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6178",
+    "course_options": [
+      "COMS E6178"
+    ],
+    "title": "Human-Computer Interaction"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6184",
+    "course_options": [
+      "COMS E6184"
+    ],
+    "title": "Anonymity & Privacy"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6424",
+    "course_options": [
+      "COMS E6424"
+    ],
+    "title": "Hardware Security"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "CSEE E6863",
+    "course_options": [
+      "CSEE E6863"
+    ],
+    "title": "Formal Verification of Hardware and Software Systems"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6901 **",
+    "course_options": [
+      "COMS E6901 **"
+    ],
+    "title": "Projects in Computer Science (Advisor approval required)"
+  },
+  {
+    "pathway": "Software Systems",
+    "group": null,
+    "course_id_raw": "COMS E6998 **",
+    "course_options": [
+      "COMS E6998 **"
+    ],
+    "title": "Topics in Computer Science (Visit the topics courses page to see which COMS 6998 courses apply)"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4160",
+    "course_options": [
+      "COMS W4160"
+    ],
+    "title": "Computer Graphics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4167",
+    "course_options": [
+      "COMS W4167"
+    ],
+    "title": "Computer Animation"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4170",
+    "course_options": [
+      "COMS W4170"
+    ],
+    "title": "User Interface Design"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4172",
+    "course_options": [
+      "COMS W4172"
+    ],
+    "title": "3D User Interfaces and Augmented Reality"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4731",
+    "course_options": [
+      "COMS W4731"
+    ],
+    "title": "Computer Vision"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4732",
+    "course_options": [
+      "COMS W4732"
+    ],
+    "title": "Computer Vision II"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4733",
+    "course_options": [
+      "COMS W4733"
+    ],
+    "title": "Computational Aspects of Robotics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4735",
+    "course_options": [
+      "COMS W4735"
+    ],
+    "title": "Visual Interfaces to Computers"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4771 or W4721*",
+    "course_options": [
+      "COMS W4771",
+      "W4721*"
+    ],
+    "title": "Machine Learning or Machine Learning for Data Science"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4737 (E6737)",
+    "course_options": [
+      "COMS W4737 (E6737)"
+    ],
+    "title": "Biometrics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4160",
+    "course_options": [
+      "COMS W4160"
+    ],
+    "title": "Computer Graphics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4162",
+    "course_options": [
+      "COMS W4162"
+    ],
+    "title": "Advanced Computer Graphics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4165",
+    "course_options": [
+      "COMS W4165"
+    ],
+    "title": "Computational Techniques in Pixel Processing"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4167",
+    "course_options": [
+      "COMS W4167"
+    ],
+    "title": "Computer Animation"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4170",
+    "course_options": [
+      "COMS W4170"
+    ],
+    "title": "User Interface Design"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4172",
+    "course_options": [
+      "COMS W4172"
+    ],
+    "title": "3D User Interfaces and Augmented Reality"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4731",
+    "course_options": [
+      "COMS W4731"
+    ],
+    "title": "Computer Vision"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4732",
+    "course_options": [
+      "COMS W4732"
+    ],
+    "title": "Computer Vision II"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4733",
+    "course_options": [
+      "COMS W4733"
+    ],
+    "title": "Computational Aspects of Robotics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4735",
+    "course_options": [
+      "COMS W4735"
+    ],
+    "title": "Visual Interfaces to Computers"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4737",
+    "course_options": [
+      "COMS W4737"
+    ],
+    "title": "Biometrics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4771 or W4721*",
+    "course_options": [
+      "COMS W4771",
+      "W4721*"
+    ],
+    "title": "Machine Learning or Machine Learning for Data Science"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4772",
+    "course_options": [
+      "COMS W4772"
+    ],
+    "title": "Advanced Machine Learning and Perception"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS W4995",
+    "course_options": [
+      "COMS W4995"
+    ],
+    "title": "Visit the topics courses page to see which COMS 4995 courses apply"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6160",
+    "course_options": [
+      "COMS E6160"
+    ],
+    "title": "Topics in Computer Graphics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6161",
+    "course_options": [
+      "COMS E6161"
+    ],
+    "title": "Rendering"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6173",
+    "course_options": [
+      "COMS E6173"
+    ],
+    "title": "Virtual Reality and Augmented Reality"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6174",
+    "course_options": [
+      "COMS E6174"
+    ],
+    "title": "Interaction Design: A Perceptual Approach"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6176",
+    "course_options": [
+      "COMS E6176"
+    ],
+    "title": "User Interfaces for Mobile & Wearable Computing"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6178",
+    "course_options": [
+      "COMS E6178"
+    ],
+    "title": "Human\u2013Computer Interaction"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6731",
+    "course_options": [
+      "COMS E6731"
+    ],
+    "title": "Humanoid Robots"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6732",
+    "course_options": [
+      "COMS E6732"
+    ],
+    "title": "Computational Imaging"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6733",
+    "course_options": [
+      "COMS E6733"
+    ],
+    "title": "3-D Photography"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6734",
+    "course_options": [
+      "COMS E6734"
+    ],
+    "title": "Computational Photography"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6735",
+    "course_options": [
+      "COMS E6735"
+    ],
+    "title": "Visual Databases"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6737",
+    "course_options": [
+      "COMS E6737"
+    ],
+    "title": "Biometrics"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6901",
+    "course_options": [
+      "COMS E6901"
+    ],
+    "title": "Projects in Computer Science (Advisor approval required)"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "COMS E6998",
+    "course_options": [
+      "COMS E6998"
+    ],
+    "title": "Visit the topics courses page to see which COMS 6998 courses apply"
+  },
+  {
+    "pathway": "Vision, Graphics, Interaction, and Robotics",
+    "group": null,
+    "course_id_raw": "MECS E6615",
+    "course_options": [
+      "MECS E6615"
+    ],
+    "title": "Advanced Robotic Manipulation"
+  }
+]

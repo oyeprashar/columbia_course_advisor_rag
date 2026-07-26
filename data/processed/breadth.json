@@ -1,0 +1,41 @@
+{
+  "requirements": [
+    "All students must complete the 4 course Breadth Requirement. To fulfill this requirement, take 1 course from Group 1 (Systems), 1 course from Group 2 (Theory), 1 course from Group 3 (AI and Applications), and 1 more course from any of the three approved lists for a total of 4 courses.",
+    "Only the courses listed in the table below may be used for Breadth. Exceptions to the table below will not be made. 6000-level courses cannot be used for Breadth. All breadth courses must be taken at Columbia and cannot be waived or substituted with non-Columbia courses. If you have been approved for Advanced Standing, these credits can be applied to your Breadth requirements.",
+    "The only joint-CS courses permitted are as specified below; all other breadth courses must be strictly \u201cCOMS.\u201d Regardless of the course number, courses labeled \u201ccertificate only\u201d or named \u201cxxx for Data Science\u201d or similar may not be applied to the MS breadth requirement.",
+    "Breadth courses may overlap with a required track or track/general elective course. Refer to your track page for more details. For a course overlap to be possible, the course must be listed on your track page and in the chart below. Please be advised that all students will still need 30 credits to complete the CSMS degree."
+  ],
+  "groups": [
+    {
+      "category": "1. Systems",
+      "courses": [
+        "All COMS 41xx courses",
+        "Except",
+        "COMS 4121, COMS 416x, and COMS 417x",
+        "All COMS 48xx courses",
+        "COMS 4444",
+        "CSEE 4119, CSEE 4823, CSEE 4824, CSEE 4840, CSEE 4868",
+        "EECS 4340"
+      ]
+    },
+    {
+      "category": "2. Theory",
+      "courses": [
+        "All COMS 42xx courses",
+        "CSOR 4231, CSOR 4223",
+        "Not",
+        "CSOR 4246"
+      ]
+    },
+    {
+      "category": "3. AI & Applications",
+      "courses": [
+        "All COMS 47xx courses",
+        "Except",
+        "COMS 4721, 4726, and COMS 4776 prior to Fall 2025",
+        "All COMS 416x and COMS 417x",
+        "CBMF 4761"
+      ]
+    }
+  ]
+}
