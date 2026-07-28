@@ -1,0 +1,31 @@
+{
+  "program": "MS in Computer Science",
+  "source_url": "https://www.cs.columbia.edu/education/ms/",
+  "total_points_required": 30,
+  "minimum_course_level": 4000,
+  "minimum_gpa": 2.7,
+  "max_d_grades_allowed": 1,
+  "min_points_at_6000_level": 6,
+  "max_non_cs_or_non_pathway_points": 3,
+  "requires_pdl": true,
+  "pdl_course": "ENGI E4000",
+  "pdl_exempt": ["CVN students"],
+  "breadth_requirement_url": "http://www.cs.columbia.edu/education/ms/breadthRequirement",
+  "pathways": [
+    {"name": "Computational Biology", "url": "http://www.cs.columbia.edu/education/ms/computationalBiology"},
+    {"name": "Computer Security", "url": "http://www.cs.columbia.edu/education/ms/newComputerSecurity"},
+    {"name": "Foundations of Computer Science", "url": "http://www.cs.columbia.edu/education/ms/foundationsOfCS"},
+    {"name": "Machine Learning", "url": "http://www.cs.columbia.edu/education/ms/machineLearning"},
+    {"name": "Natural Language Processing", "url": "http://www.cs.columbia.edu/education/ms/nlp"},
+    {"name": "Network Systems", "url": "http://www.cs.columbia.edu/education/ms/networkSystems"},
+    {"name": "Software Systems", "url": "http://www.cs.columbia.edu/education/ms/softwareSystems"},
+    {"name": "Vision, Graphics, Interaction, and Robotics", "url": "http://www.cs.columbia.edu/education/ms/visionAndGraphics"},
+    {"name": "MS Personalized", "note": "by faculty invite only", "url": "http://www.cs.columbia.edu/education/ms/MSpersonalized"},
+    {"name": "MS Thesis", "note": "by faculty invite only", "url": "http://www.cs.columbia.edu/education/ms/MSThesis"}
+  ],
+  "notes": [
+    "The registration system does not enforce prerequisites -- prereqs listed in the bulletin are informational, not blocking, for grad students.",
+    "Graduate students (MS and Doctoral) should not register for 3000-level courses; these do not count toward degree points.",
+    "Topics courses (COMS 4995 / COMS 6998) require pathway-specific approval to count as a pathway elective; no approval needed to count as a general elective."
+  ]
+}
