@@ -29,7 +29,7 @@ this application allows students to query course offerings, prerequisites, abd s
 └─────────────────┘       └────────────────┘       │ Context         │
                                                    └─────────────────┘
 ```
-## 🌟 API Example
+## API Example
 ```code
 
 cURL
