@@ -1,15 +1,36 @@
 package main
 
-/*
-	TODO :
-		1. When the server starts we need to create the connection to the db
-				or find a more efficient way
-*/
+import (
+	"github.com/oyeprashar/columbia_course_advisor_rag/api"
+	"log"
+	"net/http"
+	"os"
 
-import rules "github.com/oyeprashar/columbia_course_advisor_rag/rules"
+	"github.com/joho/godotenv"
+	"github.com/oyeprashar/columbia_course_advisor_rag/database"
+)
 
 func main() {
+	if err := godotenv.Load(); err != nil {
+		log.Fatal("no .env file found, reading from actual environment variables")
+	}
 
-	rules.GetDegressProgress([]string{"random"})
+	err := database.InitDB()
+	if err != nil {
+		log.Fatal(err)
+	}
 
+	mux := http.NewServeMux()
+	mux.HandleFunc("/health", api.HandleHealth)
+	mux.HandleFunc("/recommend", api.HandleRecommend)
+
+	port := os.Getenv("PORT")
+	if port == "" {
+		port = "8080"
+	}
+
+	log.Printf("listening on :%s", port)
+	if err := http.ListenAndServe(":"+port, mux); err != nil {
+		log.Fatalf("server failed: %v", err)
+	}
 }

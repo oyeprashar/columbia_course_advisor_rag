@@ -14,4 +14,38 @@ type DegreeProgress struct {
 	ExceedsNonCSCap      bool
 
 	UnrecognizedCourses []string // codes passed in that weren't found in the courses table
+
+	AboveMinGPA bool
+}
+
+// OpenRequirement describes one still-unsatisfied pathway requirement --
+// the student hasn't completed any of its OR'd course options yet.
+type OpenRequirement struct {
+	GroupLabel string
+	Title      string
+	Options    []string // raw option text, e.g. "Either COMS W4261 or COMS E6185"
+	Codes      []string // resolved course codes only, for programmatic matching
+}
+
+type PathwayProgress struct {
+	PathwayName           string
+	TotalRequirements     int
+	SatisfiedRequirements int
+	OpenRequirements      []OpenRequirement
+	IsComplete            bool
+}
+
+type BreadthProgress struct {
+	TotalCategories     int
+	SatisfiedCategories int
+	OpenCategories      []string
+	IsComplete          bool
+}
+
+// EligibilityReport combines all three checks -- this is what the API
+// layer calls to answer "where does this student stand" in one shot.
+type EligibilityReport struct {
+	Progress *DegreeProgress
+	Pathway  *PathwayProgress
+	Breadth  *BreadthProgress
 }
