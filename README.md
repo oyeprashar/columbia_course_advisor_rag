@@ -1,28 +1,104 @@
-###  We start with MS CS
+# Columbia MS CS Course Advisor RAG
 
-# Scrapping documents, parsing, and storing them
-![img.png](images/img.png)
-- VectorDB does not consume the file directly, and we need to extract the information from the files
-- It needs text
+An intelligent, AI-powered course advisory assistant for Columbia 
+University students. Built using **Retrieval-Augmented Generation (RAG)**, 
+this application allows students to query course offerings, prerequisites, abd syllabus details using natural language.
 
-Raw HTML and parsing
-1. Fetch the relevant raw HTMLs
-2. Parse these HTMLs into relevant JSON
-3. Now check if these are enough for our task
+---
 
-Putting data in SQL and vector DB
+## Features
 
-SQL - postgres
-- We put the data that we need to have exact match with 
-- Course code, title, points, level
-  Prerequisite groups/options (course codes only)
-  Pathway names, requirement groups, option codes
-  Breadth group categories and course/wildcard entries
-  Program-level numbers (30 points, 2.7 GPA, 6-point 6000-level minimum, etc.)
+- **Natural Language Course Search:** Ask questions like *"What machine learning courses can I take if I've only taken Intro to CS?"* or *"Which computer science electives focus heavily on group projects?"*
+- **Context-Aware Retrieval:** Uses vector embeddings to retrieve relevant details directly from official Columbia course catalogs, bulletin pages, and syllabi.
+- **Accurate & Grounded Answers:** Leverages LLMs with grounded retrieval to minimize hallucinations and provide reliable academic guidance.
+- **Prerequisite & Track Analysis:** Easily verify course prerequisites, core requirements, and degree track alignment.
 
-VectorDB
-- When we want to get similar texts
-- Probabilistic
-- Top K
+---
 
+## Architecture
 
+```text
+┌─────────────────┐       ┌────────────────┐       ┌─────────────────┐
+│ User Query      │ ───>  │ Embedding Model│ ───>  │ Vector DB       │
+└─────────────────┘       └────────────────┘       │                 │
+                                                   └────────┬────────┘
+                                                            │ Relevant Chunks
+                                                            v
+┌─────────────────┐       ┌────────────────┐       ┌─────────────────┐
+│ Final Answer    │ <───  │ LLM            │ <───  │ Prompt +        │
+└─────────────────┘       └────────────────┘       │ Context         │
+                                                   └─────────────────┘
+```
+## 🌟 API Example
+```code
+
+cURL
+
+postman request POST 'http://localhost:8080/recommend' \
+  --header 'Content-Type: application/json' \
+  --body '{
+    "interests": "I am interested in deep learning and neural networks",
+    "completed_courses": ["COMS 4771", "COMS 6111", "COMS 4701"],
+    "gpa": 3.5,
+    "pathway": "Machine Learning"
+  }'
+  
+  
+sample response
+{
+    "recommendations": [
+        {
+            "CourseCode": "ECBM E4040",
+            "Content": "Developing features - internal representations of the world, artificial neural networks, classifying handwritten digits with logistics regression, feedforward deep networks, back propagation in multilayer perceptrons, regularization of deep or distributed models, optimization for training deep models, convolutional neural networks, recurrent and recursive neural networks, deep learning in speech and object recognition",
+            "Distance": 0.40253034815011224,
+            "SatisfiesPathway": false,
+            "PathwayGroup": "",
+            "PathwayTitle": "",
+            "SatisfiesBreadth": false,
+            "BreadthCategory": ""
+        },
+        {
+            "CourseCode": "COMS W4732",
+            "Content": "Advanced course in computer vision. Topics include convolutional networks and back-propagation, object and action recognition, self-supervised and few-shot learning, image synthesis and generative models, object tracking, vision and language, vision and audio, 3D representations, interpretability, and bias, ethics, and media deception",
+            "Distance": 0.5447087857300759,
+            "SatisfiesPathway": false,
+            "PathwayGroup": "",
+            "PathwayTitle": "",
+            "SatisfiesBreadth": false,
+            "BreadthCategory": ""
+        },
+        {
+            "CourseCode": "EECS E6898",
+            "Content": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899",
+            "Distance": 0.5679536800356844,
+            "SatisfiesPathway": false,
+            "PathwayGroup": "",
+            "PathwayTitle": "",
+            "SatisfiesBreadth": false,
+            "BreadthCategory": ""
+        },
+        {
+            "CourseCode": "EECS E6897",
+            "Content": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899",
+            "Distance": 0.5679536800356844,
+            "SatisfiesPathway": false,
+            "PathwayGroup": "",
+            "PathwayTitle": "",
+            "SatisfiesBreadth": false,
+            "BreadthCategory": ""
+        },
+        {
+            "CourseCode": "EECS E6894",
+            "Content": "Advanced topics spanning electrical engineering and computer science such as speech processing and recognition, image and multimedia content analysis, and other areas drawing on signal processing, information theory, machine learning, pattern recognition, and related topics. Content varies from year to year, and different topics rotate through the course numbers 6890 to 6899",
+            "Distance": 0.5679536800356844,
+            "SatisfiesPathway": false,
+            "PathwayGroup": "",
+            "PathwayTitle": "",
+            "SatisfiesBreadth": false,
+            "BreadthCategory": ""
+        }
+    ],
+    "explanation": "Based on your interest in deep learning and neural networks, here are the recommendations from your candidate list:\n\n*   **ECBM E4040**: This course directly aligns with your goals, covering artificial neural networks, deep networks, back propagation, and deep learning applications. It is a general elective and does not fill a specific pathway or breadth slot.\n*   **COMS W4732**: This course covers advanced computer vision topics, including convolutional networks, generative models, and self-supervised learning. It is a general elective and does not satisfy any specific pathway or breadth requirement.\n*   **EECS E6898**: This course covers advanced topics in electrical engineering and computer science, such as machine learning and pattern recognition. It acts as a general elective and does not fill a specific pathway or breadth slot.\n*   **EECS E6897**: This course covers advanced topics spanning electrical engineering and computer science, including machine learning, signal processing, and pattern recognition. It is a general elective and does not satisfy a specific pathway or breadth requirement.\n*   **EECS E6894**: This course explores advanced topics like speech processing, machine learning, and pattern recognition. It is a general elective and does not fill any specific pathway or breadth slot."
+}
+ 
+```
