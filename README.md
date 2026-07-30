@@ -99,6 +99,31 @@ sample response
         }
     ],
     "explanation": "Based on your interest in deep learning and neural networks, here are the recommendations from your candidate list:\n\n*   **ECBM E4040**: This course directly aligns with your goals, covering artificial neural networks, deep networks, back propagation, and deep learning applications. It is a general elective and does not fill a specific pathway or breadth slot.\n*   **COMS W4732**: This course covers advanced computer vision topics, including convolutional networks, generative models, and self-supervised learning. It is a general elective and does not satisfy any specific pathway or breadth requirement.\n*   **EECS E6898**: This course covers advanced topics in electrical engineering and computer science, such as machine learning and pattern recognition. It acts as a general elective and does not fill a specific pathway or breadth slot.\n*   **EECS E6897**: This course covers advanced topics spanning electrical engineering and computer science, including machine learning, signal processing, and pattern recognition. It is a general elective and does not satisfy a specific pathway or breadth requirement.\n*   **EECS E6894**: This course explores advanced topics like speech processing, machine learning, and pattern recognition. It is a general elective and does not fill any specific pathway or breadth slot."
-}
- 
+} 
 ```
+## .env format
+```code
+PGHOST=localhost
+PGPORT=5432
+PGDATABASE=course_advisor
+PGUSER=myuser
+PGPASSWORD=mypassword
+
+# "anthropic" or "gemini" -- see generate/generate.go
+LLM_PROVIDER=anthropic
+
+ANTHROPIC_API_KEY=
+ANTHROPIC_MODEL=claude-sonnet-4-6
+
+GEMINI_API_KEY=<key>
+GEMINI_MODEL=gemini-3.5-flash
+
+EMBEDDING_SERVICE_URL=http://localhost:8001
+```
+
+## Running the services
+- Step 1: Use scrapper to generate the raw HTMLs
+- Step 2: Use the parser to generate clean texts from these HTMLs
+- Step 3: Run the run load.py files in ingestion for both relational and vectors
+- Step 4 : Create .env files at the root with the given format and add your keys
+- Step 5: Spin up the services by  ``docker-compose up --build`` and then use the above curl
